@@ -1,0 +1,230 @@
+// SankeyMATIC diagram inputs - Saved: 19.7.2026, 14:39:52
+// https://sankeymatic.com/build/
+
+// === Nodes and Flows ===
+
+Rechtsvorschriften und Dokumentation [5531.25] Gesamtkosten
+
+Gesamtkosten [3837.5] Traubenerzeuger
+Gesamtkosten [1228.75] Erzeugergemeinschaft
+Gesamtkosten [465] Kontrollstelle
+
+Traubenerzeuger [25] Verträge & Vereinbarungen (Erz.)
+Traubenerzeuger [3812.5] Eigenkontrolle (Erz.)
+
+Verträge & Vereinbarungen (Erz.) [12.5] Verträge (Erz)
+
+Verträge (Erz) [12.5] Teilnahmevereinbarung mit dem Lizenznehmer
+Verträge (Erz) [12.5] Datenschutzhinweise (Erz.)
+
+Eigenkontrolle (Erz.) [75] Ausfüllen von Checklisten und Formulare (Erz.)
+Eigenkontrolle (Erz.) [462.5] Datenaufzeichnung und -pflege
+Eigenkontrolle (Erz.) [3275] Archivierung von Nachweisen
+
+
+Ausfüllen von Checklisten und Formulare (Erz.) [50] Bescheinigung über GVO-Freiheit
+Ausfüllen von Checklisten und Formulare (Erz.) [25] Eigenkontrollcheckliste
+
+Datenaufzeichnung und -pflege [150] Dokumentation aller Verfahrensschritte im Produktionsprozess
+Datenaufzeichnung und -pflege [50] Dokumentation eines HACCP-Konzepts
+Datenaufzeichnung und -pflege [12.5] Ernteaufzeichnungen führen
+Datenaufzeichnung und -pflege [25] Flächendaten pflegen und aktualisieren
+Datenaufzeichnung und -pflege [200] Verkaufszahlen dokumentieren
+Datenaufzeichnung und -pflege [25] Dokumentierte Produkttrennung (zert./nicht zert.)
+
+Archivierung von Nachweisen [500] Analyseergebnisse ( z.B. Zucker, Säure, Alkohol, Sensorik, Nmin)
+Archivierung von Nachweisen [600] Düngemittelaufzeichnungen
+Archivierung von Nachweisen [25] Liefer- und Erntebelege dokumentieren
+Archivierung von Nachweisen [50] Nachweise zur GVO-Freiheit
+Archivierung von Nachweisen [1200] Pflanzenschutzaufzeichnungen
+Archivierung von Nachweisen [600] Rechnungen
+Archivierung von Nachweisen [300] Wareneingangskontrollen dokumentieren
+
+Erzeugergemeinschaft [43.75] Verträge & Vereinbarungen (EG)
+Erzeugergemeinschaft [600] Eigenkontrolle (EG)
+Erzeugergemeinschaft [585] Interne Kontrolle 
+
+Verträge & Vereinbarungen (EG) [43.75] Verträge (EG)
+
+Verträge (EG) [12.5] Zeichennutzungsvertrag
+Verträge (EG) [25] Teilnahmevereinbarung mit dem Mitglied
+Verträge (EG) [6.25] Datenschutzhinweise (EG)
+
+Eigenkontrolle (EG) [180] Audit von zentralen Einrichtungen
+Eigenkontrolle (EG) [390] Dokumentation der Audit-Ergebnisse
+Eigenkontrolle (EG) [30] Ausfüllen von Checklisten und Formulare (EG)
+
+Audit von zentralen Einrichtungen [30] Abfüllbereich prüfen
+Audit von zentralen Einrichtungen [15] Etikettierung prüfen
+Audit von zentralen Einrichtungen [30] Flaschenlager prüfen
+Audit von zentralen Einrichtungen [15] Maschinen prüfen
+Audit von zentralen Einrichtungen [60] Rohstofflager prüfen
+Audit von zentralen Einrichtungen [30] Weinkellerei prüfen
+
+Dokumentation der Audit-Ergebnisse [75] Dokumentation aller Verfahrensschritte im Produktionsprozess (in zentralen Einrichtungen)
+Dokumentation der Audit-Ergebnisse [25] Dokumentation eines HACCP-Konzepts (in zentralen Einrichtungen)
+Dokumentation der Audit-Ergebnisse [50] Dokumentierte Produkttrennung (zert./nicht zert.) (in zentralen Einrichtungen)
+Dokumentation der Audit-Ergebnisse [240] Organisation und Dokumentation der Rückstandsuntersuchungen
+
+Ausfüllen von Checklisten und Formulare (EG) [30] Eigenkontrollcheckliste (Zeichennutzer)
+
+Interne Kontrolle [120] Ausfüllen von Checklisten und Formulare (EG)
+Interne Kontrolle [75] Dokumentation der Audit-Ergebnisse
+Interne Kontrolle [30] Festlegung und Nachverfolgung von Korrekturmaßnahmen
+Interne Kontrolle [135] interne Jährliche Betriebsprüfung (bei jedem Mitglied)
+Interne Kontrolle [120] Maintenance and implementation of the QMS
+Interne Kontrolle [105] Rückverfolgbarkeits- und Plausibilitätsprüfung
+
+Ausfüllen von Checklisten und Formulare (EG) [120] Ausfüllen der Excel-Meldedatei (für ein Mitglied)
+
+Dokumentation der Audit-Ergebnisse [15] Beschwerden erfassen, untersuchen und klären
+Dokumentation der Audit-Ergebnisse [15] Kategorisierung von Abweichungen
+Dokumentation der Audit-Ergebnisse [45] Protokollführung
+
+Festlegung und Nachverfolgung von Korrekturmaßnahmen [15] Maßnahmen definieren und Umsetzungsfristen festhalten
+Festlegung und Nachverfolgung von Korrekturmaßnahmen [15] Nachkontrolle dokumentieren 
+
+interne Jährliche Betriebsprüfung (bei jedem Mitglied) [30] Kontrolle der Düngemittelaufzeichnungen
+interne Jährliche Betriebsprüfung (bei jedem Mitglied) [30] Kontrolle der Pflanzenschutzaufzeichnungen
+interne Jährliche Betriebsprüfung (bei jedem Mitglied) [60] Prüfung der Eigenkontrollcheckliste des Traubenerzeugers
+interne Jährliche Betriebsprüfung (bei jedem Mitglied) [15] Prüfung der Maßnahmenpläne
+
+Maintenance and implementation of the QMS [120] Ablage im QMS-System der Erzeugergemeinschaft
+
+Rückverfolgbarkeits- und Plausibilitätsprüfung [15] Ernteaufzeichnungen prüfen
+Rückverfolgbarkeits- und Plausibilitätsprüfung [30] Flächenangaben prüfen
+Rückverfolgbarkeits- und Plausibilitätsprüfung [15] Lieferscheine prüfen
+Rückverfolgbarkeits- und Plausibilitätsprüfung [15] Rechnungen kontrollieren
+Rückverfolgbarkeits- und Plausibilitätsprüfung [15] Verkaufszahlen kontrollieren
+Rückverfolgbarkeits- und Plausibilitätsprüfung [15] Wareneingangsdokumente prüfen
+
+Kontrollstelle [465] Neutrale Kontrolle
+
+Neutrale Kontrolle [210] Ausfüllen von Checklisten und Formulare (KS)
+Neutrale Kontrolle [135] Jährliche Betriebsprüfung (bei jedem Mitglied)
+Neutrale Kontrolle [120] Stichprobenkontrollen
+
+Ausfüllen von Checklisten und Formulare (KS) [120] Ausfüllen der Kontrollstellenmeldung (Excel-Datei)
+Ausfüllen von Checklisten und Formulare (KS) [30] Checkliste zur neutralen Kontrolle - Zusatzcheckliste „Ohne Gentechnik“ (Landwirtschaftliche Betriebe)
+Ausfüllen von Checklisten und Formulare (KS) [60] Checkliste zur neutralen Kontrolle (Landwirtschaftliche Betriebe)
+
+Jährliche Betriebsprüfung (bei jedem Mitglied) [90] Checkliste zur neutralen Kontrolle
+Jährliche Betriebsprüfung (bei jedem Mitglied) [45] Checkliste zur neutralen Kontrolle Zeichennutzer „Ohne Gentechnik“
+
+Stichprobenkontrollen [120] Verifizierung der internen Kontrolle
+
+// === Settings ===
+
+// ✓ size w 1594
+// ✓   h 900
+// ✓ margin l 8
+// ✓   r 2
+// ✓   t 18
+// ✓   b 20
+// ✓ bg color #ffffff
+// ✓   transparent N
+// ✓ node w 2
+// ✓   h 44
+// ✓   spacing 73
+// ✓   border 0
+// ✓   theme c
+// ✓   color #888888
+// ✓   opacity 1
+// ✓ flow curvature 0.26
+// ✓   inheritfrom target
+// ✓   color #999999
+// ✓   opacity 0.45
+// ✓ layout order automatic
+// ✓   justifyorigins N
+// ✓   justifyends N
+// ✓   reversegraph N
+// ✓   attachincompletesto nearest
+// ✓ labels color #000000
+// ✓   hide N
+// ✓   highlight 0.55
+// ✓   fontface sans-serif
+// ✓   linespacing 0
+// ✓   relativesize 100
+// ✓   magnify 96
+// ✓ labelname appears Y
+// ✓   size 9
+// ✓   weight 400
+// ✓ labelvalue appears Y
+// ✓   fullprecision Y
+// ✓   position before
+// ✓   weight 400
+// ✓ labelposition autoalign 0
+// ✓   scheme auto
+// ✓   first before
+// ✓   breakpoint 7
+// ✓ value format ',.'
+// ✓   prefix ''
+// ✓   suffix ''
+// ✓ themeoffset a 6
+// ✓   b 9
+// ✓   c 0
+// ✓   d 0
+// ✓ meta mentionsankeymatic N
+// ✓   listimbalances Y
+
+// === Moved Nodes ===
+
+// ✓ move Rechtsvorschriften und Dokumentation -0.10655, 0.01168
+// ✓ move Gesamtkosten -0.1191, 0.00888
+// ✓ move Traubenerzeuger -0.19323, -0.02043
+// ✓ move Eigenkontrolle (Erz.) -0.27527, -0.04304
+// ✓ move Erzeugergemeinschaft -0.20999, 0.0207
+// ✓ move Kontrollstelle -0.21942, 0.04062
+// ✓ move Bescheinigung über GVO-Freiheit -0.35174, -0.09367
+// ✓ move Eigenkontrollcheckliste -0.33947, -0.04102
+// ✓ move Dokumentation aller Verfahrensschritte im Produktionsprozess -0.29857, -0.03787
+// ✓ move Ausfüllen von Checklisten und Formulare (Erz.) -0.34049, -0.06449
+// ✓ move Datenaufzeichnung und -pflege -0.30573, -0.05568
+// ✓ move Dokumentation eines HACCP-Konzepts -0.24949, -0.03038
+// ✓ move Ernteaufzeichnungen führen -0.17485, -0.02138
+// ✓ move Flächendaten pflegen und aktualisieren -0.09407, -0.01605
+// ✓ move Verkaufszahlen dokumentieren -0.05828, -0.00725
+// ✓ move Dokumentierte Produkttrennung (zert./nicht zert.) -0.20041, -0.00713
+// ✓ move Archivierung von Nachweisen -0.35006, -0.01295
+// ✓ move Analyseergebnisse ( z.B. Zucker, Säure, Alkohol, Sensorik, Nmin) -0.23457, -0.0066
+// ✓ move Düngemittelaufzeichnungen -0.05858, -0.01979
+// ✓ move Neutrale Kontrolle -0.33576, 0.06093
+// ✓ move Stichprobenkontrollen -0.43763, 0.08432
+// ✓ move Jährliche Betriebsprüfung (bei jedem Mitglied) -0.43102, 0.06408
+// ✓ move Ausfüllen von Checklisten und Formulare (KS) -0.42925, 0.04023
+// ✓ move Interne Kontrolle -0.28978, 0.05292
+// ✓ move Eigenkontrolle (EG) -0.26472, 0.04479
+// ✓ move Verträge & Vereinbarungen (EG) -0.18575, 0.03573
+// ✓ move Verträge (EG) -0.26994, 0.02289
+// ✓ move Verträge (Erz) -0.11656, 0.00606
+// ✓ move Verträge & Vereinbarungen (Erz.) -0.21984, -0.00454
+// ✓ move Dokumentation der Audit-Ergebnisse -0.08116, 0.0063
+// ✓ move Ausfüllen von Checklisten und Formulare (EG) -0.01699, 0.01531
+// ✓ move Rückverfolgbarkeits- und Plausibilitätsprüfung -0.0885, 0.07024
+// ✓ move Maintenance and implementation of the QMS -0.03112, 0.04122
+// ✓ move interne Jährliche Betriebsprüfung (bei jedem Mitglied) -0.02165, 0.03363
+// ✓ move Festlegung und Nachverfolgung von Korrekturmaßnahmen -0.01083, 0.01969
+// ✓ move Verifizierung der internen Kontrolle -0.37963, 0.07933
+// ✓ move Checkliste zur neutralen Kontrolle Zeichennutzer „Ohne Gentechnik“ -0.26197, 0.0546
+// ✓ move Checkliste zur neutralen Kontrolle -0.1987, 0.03197
+// ✓ move Checkliste zur neutralen Kontrolle (Landwirtschaftliche Betriebe) -0.13184, 0.02804
+// ✓ move Liefer- und Erntebelege dokumentieren -0.00999, -0.01817
+// ✓ move Nachweise zur GVO-Freiheit 0.14097, -0.01062
+// ✓ move Pflanzenschutzaufzeichnungen -0.00049, -0.01314
+// ✓ move Rechnungen 0.04283, -0.01249
+// ✓ move Wareneingangskontrollen dokumentieren -0.00634, -0.01537
+// ✓ move Teilnahmevereinbarung mit dem Lizenznehmer -0.00552, -0.01302
+// ✓ move Checkliste zur neutralen Kontrolle - Zusatzcheckliste „Ohne Gentechnik“ (Landwirtschaftliche Betriebe) -0.00402, 0.02607
+// ✓ move Ausfüllen der Kontrollstellenmeldung (Excel-Datei) -0.00341, 0.02873
+// ✓ move Wareneingangsdokumente prüfen -0.05446, 0.02323
+// ✓ move Verkaufszahlen kontrollieren -0.00502, 0.01278
+// ✓ move Dokumentation aller Verfahrensschritte im Produktionsprozess (in zentralen Einrichtungen) 0.05727, 0
+// ✓ move Dokumentation eines HACCP-Konzepts (in zentralen Einrichtungen) 0.00703, 0
+// ✓ move Rechnungen kontrollieren -0.00217, 0.01045
+// ✓ move Lieferscheine prüfen 0, 0.00813
+// ✓ move Datenschutzhinweise (Erz.) -0.00325, -0.00813
+// ✓ move Zeichennutzungsvertrag -0.00433, -0.00465
+// ✓ move Teilnahmevereinbarung mit dem Mitglied -0.00108, -0.00233
+// ✓ move Datenschutzhinweise (EG) -0.00758, 0.00116
+// ✓ move Abfüllbereich prüfen -0.07688, 0.00349
+// ✓ move Organisation und Dokumentation der Rückstandsuntersuchungen -0.0249, -0.00237
