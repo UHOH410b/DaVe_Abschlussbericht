@@ -5,7 +5,7 @@ Die Anwendung benötigt eine Node.js-kompatible Laufzeit und einen erreichbaren 
 ## Beispiel: Vercel
 
 1. Repository mit Vercel verbinden.
-2. Als Projektwurzel `02_Agrardatenkatalog_Base44/App_Code` auswählen.
+2. Als Projektwurzel `Agrardatenkatalog_BW/App_Code` auswählen.
 3. Folgende Umgebungsvariablen setzen:
 
 ```env

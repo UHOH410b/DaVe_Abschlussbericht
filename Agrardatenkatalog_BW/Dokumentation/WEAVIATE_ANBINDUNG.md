@@ -30,7 +30,7 @@ WEAVIATE_VECTORIZER="none"
 
 Die Vorlage liegt in `.env.example`.
 
-Wichtig: Der echte API-Key gehoert nicht ins GitLab, nicht in Screenshots und nicht in den Abschlussbericht.
+Wichtig: Der echte API-Key gehört nicht in das öffentliche GitHub-Repository, nicht in Screenshots und nicht in den Abschlussbericht.
 
 ## Wichtige Felder
 

@@ -125,4 +125,4 @@ Base44 liefert eine schnelle Weboberflaeche fuer den Prototyp:
 - Bioland und ECOVIN wurden regelbasiert importiert und muessen fachlich geprueft werden.
 - Nicht alle Dokumente sind vollstaendig extrahiert.
 - Der PDF-Import in der App ist als Zielbild vorbereitet, aber noch nicht als vollautomatischer Produktionsdienst umgesetzt.
-- Echte API-Keys und urheberrechtlich geschuetzte PDFs gehoeren nicht in das GitLab.
+- Echte API-Keys und urheberrechtlich geschützte PDFs gehören nicht in das öffentliche GitHub-Repository.
