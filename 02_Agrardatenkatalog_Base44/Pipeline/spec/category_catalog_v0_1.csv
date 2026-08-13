@@ -1,0 +1,13 @@
+Category_ID,Category_Name,Category_Type,Description,Keywords
+CAT_DUENGUNG,Düngung,Fachthema,Anforderungen zu Düngung und Düngemitteln,"düng;dueng;düngemittel;duengemittel;düngebedarf;duengebedarf;nährstoff;naehrstoff;stickstoff;phosphat"
+CAT_PFLANZENSCHUTZ,Pflanzenschutz,Fachthema,Anforderungen zu Pflanzenschutzmitteln und Pflanzenschutzmaßnahmen,"pflanzenschutz;pflanzenschutzmittel;anwender;berufliche verwender"
+CAT_AUFZEICHNUNG,Aufzeichnung und Dokumentation,Pflichtmuster,Anforderungen zum Führen oder Erstellen von Aufzeichnungen,"aufzeichnung;aufzeichnen;dokumentation;dokumentieren;führen;gefuehrt;geführt"
+CAT_AUFBEWAHRUNG,Aufbewahrung,Pflichtmuster,Anforderungen zur Aufbewahrung von Unterlagen,"aufbewahren;aufbewahrung;sieben jahre;frist zur aufbewahrung"
+CAT_VORLAGE,Vorlage und Kontrolle,Pflichtmuster,Anforderungen zur Vorlage gegenüber Kontrollstellen oder Behörden,"vorlegen;auf verlangen;kontrollstelle;behörde;behoerde;zuständige stelle;zustaendige stelle"
+CAT_FRIST,Frist und Zeitpunkt,Regellogik,Anforderungen mit Fristen oder Zeitpunkten,"tage;monat;monate;jahr;jahre;31. märz;31. maerz;31. dezember;spätestens;spaetestens;innerhalb;bis zum"
+CAT_GRENZWERT,Grenzwert und Schwellenwert,Regellogik,Anforderungen mit Mengen- oder Flächenschwellen,"kilogramm;hektar;kg;bis zu;höchstens;hoechstens;weniger als;nicht mehr als;mindestens"
+CAT_AUSNAHME,Ausnahme,Regellogik,Ausnahmen oder Nichtgeltung von Pflichten,"gelten nicht;ausnahme;nicht für;nicht fuer;setzt voraus"
+CAT_FLAECHE,Fläche und Schlag,Datenobjekt,Flächenbezogene Anforderungen,"fläche;flaeche;flächen;flaechen;schlag;schläge;schlaege;bewirtschaftungseinheit;lage;größe;groesse"
+CAT_WEIDE,Weidehaltung,Fachthema,Anforderungen zu Weidehaltung und Weidetagen,"weide;weidehaltung;weidetage;tiere"
+CAT_BETRIEB,Betrieb und Betriebsleitung,Akteur,Anforderungen an Betrieb oder Betriebsleitung,"betrieb;betriebsinhaber;leiter;landwirtschaftlicher betrieb;forstwirtschaftlicher betrieb;gärtnerischer betrieb;gaertnerischer betrieb"
+CAT_DATENOBJEKT,Datenobjekt und Nachweis,Datenobjekt,Anforderungen mit Nachweisen oder Datenobjekten,"nachweis;aufzeichnungen;dokumentation;berechnung;gesamtsumme;kennzeichnung"

@@ -1,0 +1,26 @@
+# Secrets
+.env
+*.key
+*.pem
+
+# Local/runtime noise
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Potentially copyrighted or large source documents
+input/source_pdfs/
+
+# Generated bulky working outputs. Keep selected exports manually if needed.
+output/document_access/
+output/section_texts/
+output/static_demo/
+
+# Keep reports/catalog exports versionable if desired.
+!output/weaviate/weaviate_upload_report.md
+!output/master_catalog/
+!output/data_collections/
+!output/vector_index/
+!output/base44_import_tables/
+!output/base44_seed/

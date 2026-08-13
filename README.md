@@ -1,60 +1,44 @@
-# DaVe Abschlussbericht - digitale Anlagen
+# DaVe-Abschlussbericht – digitale Anlagen
 
-Dieses Repository enthält die ausgewählten digitalen Anlagen zum DaVe-Abschlussbericht.
-
-Es ist bewusst schlank gehalten. Enthalten sind nur die Ergebnisse und Dokumente, die für den Bericht, die Nachvollziehbarkeit und eine spätere Weiterentwicklung wichtig sind.
+Dieses Repository enthält die finalen digitalen Anlagen zum DaVe-Abschlussbericht. Es bündelt die für Nachvollziehbarkeit, Prüfung und spätere Weiterverwendung relevanten Ergebnisartefakte; Arbeitskopien, Zugangsdaten und urheberrechtlich geschützte Quelldokumente sind nicht enthalten.
 
 ## Inhalt
 
-### 1. Ergebnisse
+### 1. Ergebnisse der Forschungsarbeiten
 
-Ordner: `01_Ergebnisse/`
+Ordner: [`01_Ergebnisse`](01_Ergebnisse/)
 
-Enthalten sind:
+- elf BPMN-Diagrammexporte: eine Gesamtprozesslandkarte und zehn Einzelprozesse
+- zwei weiterbearbeitbare BPMN-2.0-Quelldateien
+- finaler Metadatenkatalog mit 78 Datenerhebungen und vollständigem Linkverzeichnis
+- finale Kostenanalyse für QZBW und BioZBW
+- Sankey-Diagramme und zugehörige SankeyMATIC-Quelldateien
 
-- BPMN-2.0-Prozessdiagramme
-- bereinigter AP-2-Metadatenkatalog
+### 2. Agrardatenkatalog BW
 
-Diese Dateien sind die zentralen Ergebnisartefakte für den Abschlussbericht.
+Ordner: [`02_Agrardatenkatalog_Base44`](02_Agrardatenkatalog_Base44/)
 
-### 2. Agrardatenkatalog BW / Base44-Prototyp
+- Datenmodell und konsolidierter Anforderungskatalog
+- Architektur- und Übergabedokumentation des Base44-Forschungsdemonstrators
+- eigenständiger Next.js-Nachbau der Suchoberfläche einschließlich serverseitiger Weaviate-Anbindung
+- lokale Verarbeitungspipeline zur Erzeugung, Prüfung und Bereitstellung des Anforderungskatalogs
 
-Ordner: `02_Agrardatenkatalog_Base44/`
+## Zentrale Ergebnisse der Kostenanalyse
 
-Der lauffähige Demonstrator **Agrardatenkatalog BW** bleibt zunächst in Base44. Der Link zur Base44-App kann im Abschlussbericht angegeben werden, damit die App praktisch getestet werden kann.
+Die finale enge Kostenrechnung umfasst ausschließlich zertifizierungsspezifische administrative Zusatzaufwände:
 
-Dieses Repository enthält dazu:
+- QZBW: 1.336,25 Euro pro Jahr, 43 Tätigkeiten
+- BioZBW: 1.316,25 Euro pro Jahr, 44 Tätigkeiten
+- Differenz QZBW – BioZBW: 20,00 Euro
 
-- Architektur des Prototyps
-- Einordnung der Base44-App und Migrationsoptionen
-- Weaviate-Anbindungsdokumentation
-- zentrale Datenmodell-Dateien des Anforderungskatalogs
+Die Rechenlogik, Annahmen, Quellen und SankeyMATIC-Codes sind in der finalen Arbeitsmappe dokumentiert.
 
-GitHub ist damit die technische Dokumentation und übergabe. Base44 ist der laufende Demonstrator.
+## Nutzungshinweise
 
-### 3. Berichtstext
+- BPMN-Dateien lassen sich beispielsweise mit Signavio, Camunda Modeler oder bpmn.io öffnen.
+- Die Excel-Arbeitsmappen sind als finale Veröffentlichungsfassungen strukturiert; interne Protokoll- und Zwischenblätter wurden entfernt.
+- Die App benötigt für die Live-Suche einen erreichbaren Weaviate-Cluster und lokale Umgebungsvariablen. Eine Beispieldatei ohne Zugangsdaten ist enthalten.
 
-Ordner: `03_Berichtstext/`
+## Abgrenzung
 
-Enthalten ist ein Textbaustein zur Beschreibung des Agrardatenkatalog-Prototyps im Abschlussbericht.
-
-## Was bewusst nicht enthalten ist
-
-Nicht enthalten sind:
-
-- echte API-Keys
-- `.env`-Dateien
-- Original-PDFs aus Standards oder Rechtsqüllen
-- alte Arbeitskopien
-- temporäre Pipeline-Zwischenstände
-- vollständiger Base44-App-Code
-
-## Hinweis zur App
-
-Die Base44-App ist ein lauffähiger Forschungs- und Demonstrationsprototyp. Sie greift auf einen Weaviate-Suchindex zu. Die Live-Funktion kann davon abhängen, ob der Weaviate-Zugang und die Base44-Umgebung weiterhin aktiv sind.
-
-Für eine langfristige technische Verstetigung wäre ein späterer Neuaufbau als eigenständige Web-App möglich. Dieses Repository enthält dafür die wichtigsten fachlichen und technischen Grundlagen.
-
-## Qualitätshinweis
-
-Der Agrardatenkatalog ist ein Prototyp. Die extrahierten Anforderungen sind für Forschung, Demonstration und Expert:innen-Evaluation geeignet, ersetzen aber keine Rechtsberatung.
+Der Agrardatenkatalog BW ist ein Forschungs- und Demonstrationsprototyp. Die strukturierten Anforderungen und Datenerhebungen dienen Forschung, Nachvollziehbarkeit und Evaluation; sie ersetzen keine rechtliche, fachaufsichtliche oder zertifizierungsbezogene Einzelfallprüfung.

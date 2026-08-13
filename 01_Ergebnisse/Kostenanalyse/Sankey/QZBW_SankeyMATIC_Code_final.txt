@@ -1,0 +1,110 @@
+// SankeyMATIC – QZBW – nur zertifizierungsspezifische administrative Zusatzaufwände
+// Aktualisiert: 04.08.2026
+// Monetarisierte Tätigkeiten: 43; Summe: 1336.25 EUR
+// QMS ist der einheitliche Oberbegriff. Interne Kontrollen sind Teilprozesse des QMS.
+// Physische Prüfungen, Laborleistungen und nicht ausgelöste bedingte Pflichten sind ausgeschlossen.
+// Die exakte Eingabereihenfolge hält Akteurs-, Rollen- und Tätigkeitsblöcke zusammen.
+
+// === Nodes and Flows ===
+
+Gesamt [1336.25] QZBW
+QZBW [137.5] Traubenerzeuger
+Traubenerzeuger [12.5] Teilnahmevereinbarung mit der Erzeugergruppe prüfen, unterzeichnen und übermitteln
+Traubenerzeuger [25] Eigenkontroll-Checkliste des landwirtschaftlichen Betriebs ausfüllen und ablegen
+Traubenerzeuger [50] GVO-Freiheitsbescheinigung ausfüllen beziehungsweise einholen und zusammen mit den zugehörigen Nachweisen ablegen
+Traubenerzeuger [12.5] Datenschutzhinweise zur Teilnahmevereinbarung lesen und unterzeichnen
+Traubenerzeuger [25] Vorhandene Betriebsnachweise für das QMS zusammenstellen und der Erzeugergruppe übermitteln
+Traubenerzeuger [12.5] Umsetzung von Korrekturmaßnahmen dokumentieren und der Erzeugergruppe melden
+QZBW [898.75] Genossenschaft
+Genossenschaft [772.5] Administrative Tätigkeiten im QMS der Erzeugergruppe
+Administrative Tätigkeiten im QMS der Erzeugergruppe [12.5] Teilnahmevereinbarung mit dem Gruppenmitglied ausfüllen, unterzeichnen und ablegen
+Administrative Tätigkeiten im QMS der Erzeugergruppe [25] Kontrollvertrag beziehungsweise Kontrollauftrag prüfen, unterzeichnen und ablegen
+Administrative Tätigkeiten im QMS der Erzeugergruppe [120] Excel-Meldedatei für jedes Gruppenmitglied ausfüllen und übermitteln
+Administrative Tätigkeiten im QMS der Erzeugergruppe [60] Eigenkontrollcheckliste des Traubenerzeugers prüfen und Prüfergebnis dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Maßnahmenpläne prüfen und Prüfergebnis dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [30] Pflanzenschutzaufzeichnungen prüfen und Prüfergebnis dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [30] Düngemittelaufzeichnungen prüfen und Prüfergebnis dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Interne Audits terminieren und Auditzeitplan pflegen
+Administrative Tätigkeiten im QMS der Erzeugergruppe [7.5] Mitgliedsfreigabe im Vier-Augen-Prinzip prüfen und dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Ernteaufzeichnungen prüfen und Prüfergebnis dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Verkaufszahlen prüfen und Prüfergebnis dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [30] Flächenangaben prüfen und Prüfergebnis dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Lieferscheine prüfen und Prüfergebnis dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Wareneingangsdokumente prüfen und Prüfergebnis dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Rechnungsunterlagen prüfen und Prüfergebnis dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [30] Rückverfolgbarkeitssystem anhand eines Warenbeispiels testen und Ergebnis dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Korrekturmaßnahmen definieren und Umsetzungsfristen dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Nachkontrolle durchführen und Ergebnis dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Beschwerden erfassen, untersuchen, klären und dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [45] Kontroll- und Abweichungsprotokolle führen
+Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Abweichungen kategorisieren und dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [120] QMS-Verfahren, Arbeitsanweisungen, Formulare und Aufzeichnungen ablegen, auf Aktualität prüfen und pflegen
+Administrative Tätigkeiten im QMS der Erzeugergruppe [30] QMS-Kontrollunterlagen zusammenstellen und der Zertifizierungsstelle bereitstellen
+Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Verfahren zur Aufnahme neuer Mitglieder pflegen und Neuaufnahme dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Qualifikations-, Zulassungs- und Begleitnachweise interner Auditoren und Kontrolleure pflegen
+Administrative Tätigkeiten im QMS der Erzeugergruppe [30] Schulungen planen sowie Inhalte und Teilnehmende dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [7.5] Gruppenzertifikat prüfen, intern zuordnen und im QMS ablegen
+Genossenschaft [126.25] Administrative Tätigkeiten als Zeichennutzer
+Administrative Tätigkeiten als Zeichennutzer [25] Zeichennutzungsvertrag lesen, unterzeichnen und ablegen
+Administrative Tätigkeiten als Zeichennutzer [6.25] Datenschutzhinweise zum Zeichennutzungsvertrag lesen und unterzeichnen
+Administrative Tätigkeiten als Zeichennutzer [30] Eigenkontrollcheckliste des Zeichennutzers ausfüllen und ablegen
+Administrative Tätigkeiten als Zeichennutzer [15] QZBW-Qualitätsnachweis beschaffen und für die Eigen- beziehungsweise Zertifizierungskontrolle bereithalten
+Administrative Tätigkeiten als Zeichennutzer [50] Warenflüsse zwischen QZBW- und Nicht-QZBW-Ware trennen und nachvollziehbar dokumentieren
+QZBW [270] Kontroll-/Zertifizierungsstelle
+Kontroll-/Zertifizierungsstelle [120] QMS einschließlich interner Kontrollen anhand der Unterlagen verifizieren und Ergebnis dokumentieren
+Kontroll-/Zertifizierungsstelle [15] Externen QMS-Kontrolltermin abstimmen und erforderliche Kontrollunterlagen anfordern
+Kontroll-/Zertifizierungsstelle [120] Kontrollstellenmeldung in der vorgegebenen Excel-Datei ausfüllen und übermitteln
+Kontroll-/Zertifizierungsstelle [15] Zertifizierungsentscheidung dokumentieren und Gruppenzertifikat beziehungsweise Zertifikatsdaten übermitteln
+QZBW [30] Externer Lizenznehmer
+Externer Lizenznehmer [30] Zeichennutzungsvertrag der Erzeugergruppe prüfen und gegenzeichnen sowie Programmanmeldung weiterleiten
+
+// === Settings ===
+
+size w 2000
+  h 1050
+margin l 8
+  r 2
+  t 18
+  b 20
+bg color #ffffff
+  transparent N
+node w 2
+  h 44
+  spacing 73
+  border 0
+  theme c
+  color #888888
+  opacity 1
+flow curvature 0.26
+  inheritfrom target
+  color #999999
+  opacity 0.45
+layout order exact
+  justifyorigins N
+  justifyends Y
+  reversegraph N
+  attachincompletesto nearest
+labels color #000000
+  hide N
+  highlight 0.55
+  fontface sans-serif
+  linespacing 0
+  relativesize 100
+  magnify 96
+labelname appears Y
+  size 9
+  weight 400
+labelvalue appears Y
+  fullprecision Y
+  position before
+  weight 400
+labelposition autoalign 0
+  scheme auto
+  first before
+  breakpoint 7
+value format '.,'
+  prefix ''
+  suffix ' €'
+themeoffset a 6
+meta mentionsankeymatic N
+  listimbalances Y

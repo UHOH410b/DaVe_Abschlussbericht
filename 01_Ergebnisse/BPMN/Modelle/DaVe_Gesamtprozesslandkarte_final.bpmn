@@ -203,7 +203,7 @@
          <incoming>sid-B23E52B1-5498-4156-B7C9-14BFAC5C6026</incoming>
          <outgoing>sid-8831FCBD-3605-46FB-938A-3C0A3DDD72F6</outgoing>
       </callActivity>
-      <callActivity completionQuantity="1" id="sid-7ED0D07D-C55D-434F-9B95-5B63ADDEEFFB" isForCompensation="false" name="An QZBW-/ BioZBW Gruppenzertifizierung teilnehmen" startQuantity="1">
+      <callActivity completionQuantity="1" id="sid-7ED0D07D-C55D-434F-9B95-5B63ADDEEFFB" isForCompensation="false" name="An QZBW-/BioZBW-Gruppenzertifizierung teilnehmen" startQuantity="1">
          <extensionElements>
             <signavio:signavioStencil id="CollapsedSubprocess"/>
             <signavio:signavioMetaData metaKey="bgcolor" metaValue="#FFFF00"/>
@@ -469,7 +469,7 @@
          <incoming>sid-4556AC4E-C14A-4950-8C2B-96D2054BB5CB</incoming>
          <outgoing>sid-EEA5EB26-C47B-4919-8BCA-6ADB4C325496</outgoing>
       </callActivity>
-      <callActivity completionQuantity="1" id="sid-8B8FC4AE-CD9D-40A7-9E38-0AFE5A3B0B4D" isForCompensation="false" name="IKS der QZBW/BioZBW- Gruppenzertifizierung durchführen" startQuantity="1">
+      <callActivity completionQuantity="1" id="sid-8B8FC4AE-CD9D-40A7-9E38-0AFE5A3B0B4D" isForCompensation="false" name="QMS der QZBW-/BioZBW-Gruppenzertifizierung betreiben" startQuantity="1">
          <extensionElements>
             <signavio:signavioStencil id="CollapsedSubprocess"/>
             <signavio:signavioMetaData metaKey="bgcolor" metaValue="#FFFF00"/>
@@ -724,7 +724,7 @@
          </extensionElements>
          <incoming>sid-56366CE4-91EA-4435-B851-1E894DC452D6</incoming>
       </endEvent>
-      <callActivity completionQuantity="1" id="sid-83D7CD2C-34F4-4F09-8E0A-F82586E8D958" isForCompensation="false" name="Kontrolle des IKS in GZ" startQuantity="1">
+      <callActivity completionQuantity="1" id="sid-83D7CD2C-34F4-4F09-8E0A-F82586E8D958" isForCompensation="false" name="Externe Kontrolle des QMS der GZ durchführen" startQuantity="1">
          <extensionElements>
             <signavio:signavioStencil id="CollapsedSubprocess"/>
             <signavio:signavioMetaData metaKey="bgcolor" metaValue="#FFFF00"/>
@@ -778,7 +778,7 @@
          <outgoing>sid-0639AE7D-CD5A-4577-83C4-10EE06829DE4</outgoing>
          <messageEventDefinition id="sid-ed029d26-ace5-4f0c-a590-7bed1b202616"/>
       </startEvent>
-      <startEvent id="sid-7CF50135-B5B3-4A22-8600-DB5232B9B65E" isInterrupting="true" name="Kontrollauftrag&#10;IKS QZBW/BioZBW GZ&#10; erhalten">
+      <startEvent id="sid-7CF50135-B5B3-4A22-8600-DB5232B9B65E" isInterrupting="true" name="Kontrollauftrag&#10;QMS QZBW/BioZBW GZ&#10; erhalten">
          <extensionElements>
             <signavio:signavioMetaData metaKey="bgcolor" metaValue="#ffffff"/>
             <signavio:signavioMetaData metaKey="bordercolor" metaValue="#000000"/>
