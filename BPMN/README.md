@@ -7,4 +7,4 @@ Der Ordner enthält die Ergebnisse der Prozess- und Datenflussmodellierung:
 
 Identische Dubletten und ältere Benennungsstände wurden nicht in die Veröffentlichungsfassung übernommen. Die Diagrammtitel entsprechen den im Abschlussbericht und im Metadatenkatalog verwendeten Prozessbezeichnungen.
 
-Die Datei [`BPMN_Elementuebersicht.png`](Diagramme/BPMN_Elementuebersicht.png) erläutert Pool, Lane, Ereignisse, Aktivität, Gateway, Datenobjekt, Sequenzfluss und Nachrichtenfluss anhand eines abstrahierten Prozessablaufs. Die gleichnamige SVG-Datei dient als skalierbare Quelldatei.
+Die Datei [`BPMN_Elementuebersicht.png`](Diagramme/BPMN_Elementuebersicht.png) erläutert Pool, Lane, Ereignisse, Aktivität, Gateway, Sequenzfluss und Nachrichtenfluss anhand eines abstrahierten Prozessablaufs. Die gleichnamige SVG-Datei dient als skalierbare Quelldatei.

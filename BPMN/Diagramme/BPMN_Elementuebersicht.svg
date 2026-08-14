@@ -37,17 +37,18 @@
   <text class="main small" x="240" y="78">Repräsentiert einen Prozessbeteiligten oder eine Organisation</text>
 
   <!-- Lanes -->
-  <line x1="121" y1="390" x2="1755" y2="390" class="stroke"/>
-  <rect x="121" y="40" width="95" height="350" fill="#eef9ef" stroke="#111111" stroke-width="2"/>
-  <rect x="121" y="390" width="95" height="340" fill="#eef9ef" stroke="#111111" stroke-width="2"/>
-  <text class="main laneTitle" text-anchor="middle" transform="rotate(-90 168 215)" x="168" y="215">Lane</text>
-  <text class="main laneTitle" text-anchor="middle" transform="rotate(-90 168 560)" x="168" y="560">Lane</text>
+  <line x1="121" y1="440" x2="1755" y2="440" class="stroke"/>
+  <rect x="121" y="40" width="95" height="400" fill="#eef9ef" stroke="#111111" stroke-width="2"/>
+  <rect x="121" y="440" width="95" height="290" fill="#eef9ef" stroke="#111111" stroke-width="2"/>
+  <text class="main laneTitle" text-anchor="middle" transform="rotate(-90 168 240)" x="168" y="240">Lane</text>
+  <text class="main laneTitle" text-anchor="middle" transform="rotate(-90 168 585)" x="168" y="585">Lane</text>
   <text class="main small" x="240" y="116">Ordnet Aktivitäten einer Rolle oder Funktion innerhalb des Pools zu</text>
 
   <!-- Sequenzfluss -->
   <line x1="400" y1="252" x2="580" y2="252" stroke="#111111" stroke-width="4" marker-end="url(#solidArrow)"/>
-  <line x1="890" y1="252" x2="1080" y2="252" stroke="#111111" stroke-width="4" marker-end="url(#solidArrow)"/>
-  <line x1="1220" y1="252" x2="1435" y2="252" stroke="#111111" stroke-width="4" marker-end="url(#solidArrow)"/>
+  <path d="M890 252 H970 V560 H1075" fill="none" stroke="#111111" stroke-width="4" marker-end="url(#solidArrow)"/>
+  <path d="M1185 560 H1200 V430 H1000 V252 H1180" fill="none" stroke="#111111" stroke-width="4" marker-end="url(#solidArrow)"/>
+  <line x1="1320" y1="252" x2="1435" y2="252" stroke="#111111" stroke-width="4" marker-end="url(#solidArrow)"/>
   <text class="main label" text-anchor="middle" x="985" y="151">Sequenzfluss</text>
   <text class="main small" text-anchor="middle" x="985" y="177">Zeigt die Ausführungsreihenfolge von Aktivitäten an</text>
 
@@ -63,32 +64,25 @@
   <text class="main small" text-anchor="middle" x="735" y="297">Aufgabe oder einen Arbeitsschritt</text>
 
   <!-- Gateway -->
-  <path d="M1150 182 L1220 252 L1150 322 L1080 252 Z" fill="#ffffff" class="stroke"/>
-  <path d="M1123 225 L1177 279 M1177 225 L1123 279" fill="none" stroke="#111111" stroke-width="8"/>
-  <text class="main label" text-anchor="middle" x="1150" y="350">Gateway</text>
-  <text class="main small" text-anchor="middle" x="1150" y="378">Stellt eine Verzweigung oder Entscheidung dar</text>
+  <path d="M1250 182 L1320 252 L1250 322 L1180 252 Z" fill="#ffffff" class="stroke"/>
+  <path d="M1223 225 L1277 279 M1277 225 L1223 279" fill="none" stroke="#111111" stroke-width="8"/>
+  <text class="main label" text-anchor="middle" x="1250" y="350">Gateway</text>
+  <text class="main small" text-anchor="middle" x="1250" y="378">Stellt eine Verzweigung oder</text>
+  <text class="main small" text-anchor="middle" x="1250" y="404">Entscheidung im Prozess dar</text>
 
   <!-- Endereignis -->
   <circle cx="1490" cy="252" r="50" fill="#ffffff" stroke="#111111" stroke-width="8"/>
   <text class="main label" text-anchor="middle" x="1490" y="326">End-Ereignis</text>
   <text class="main small" text-anchor="middle" x="1490" y="353">Markiert das Ende eines Prozesses</text>
 
-  <!-- Datenobjekt -->
-  <path d="M405 465 H685 L750 530 V680 H405 Z" fill="#ffffff" class="stroke"/>
-  <path d="M685 465 V530 H750" fill="none" class="stroke"/>
-  <text class="main label" text-anchor="middle" x="575" y="552">Datenobjekt</text>
-  <text class="main small" text-anchor="middle" x="575" y="588">Stellt Daten oder Dokumente dar,</text>
-  <text class="main small" text-anchor="middle" x="575" y="615">die im Prozess verwendet werden</text>
-  <line x1="735" y1="319" x2="650" y2="465" stroke="#111111" stroke-width="3" stroke-dasharray="8 8"/>
-
   <!-- Nachrichtenereignis als häufig genutztes Ereignis -->
   <circle cx="1130" cy="560" r="55" fill="#ffffff" class="stroke"/>
   <circle cx="1130" cy="560" r="48" fill="none" stroke="#111111" stroke-width="2"/>
   <rect x="1095" y="536" width="70" height="48" fill="#ffffff" stroke="#111111" stroke-width="3"/>
   <path d="M1095 536 L1130 562 L1165 536" fill="none" stroke="#111111" stroke-width="3"/>
-  <text class="main label" text-anchor="middle" x="1130" y="645">Zwischenereignis</text>
-  <text class="main small" text-anchor="middle" x="1130" y="674">Markiert ein Ereignis während des Prozesses;</text>
-  <text class="main small" text-anchor="middle" x="1130" y="699">hier: Eingang einer Nachricht</text>
+  <text class="main label" text-anchor="middle" x="680" y="535">Zwischenereignis</text>
+  <text class="main small" text-anchor="middle" x="680" y="570">Markiert ein Ereignis während des Prozesses;</text>
+  <text class="main small" text-anchor="middle" x="680" y="596">hier: Eingang einer Nachricht</text>
 
   <!-- Unterer Pool und Nachrichtenfluss -->
   <rect x="45" y="780" width="1710" height="215" rx="2" fill="url(#poolGrey)" class="stroke"/>
@@ -97,8 +91,8 @@
   <rect x="1300" y="830" width="300" height="115" rx="23" fill="url(#taskBlue)" class="stroke"/>
   <text class="main label" text-anchor="middle" x="1450" y="879">Aktivität</text>
   <text class="main small" text-anchor="middle" x="1450" y="912">eines anderen Beteiligten</text>
-  <circle cx="735" cy="319" r="8" fill="#ffffff" stroke="#111111" stroke-width="3"/>
-  <path d="M735 327 V887 H1292" fill="none" stroke="#111111" stroke-width="3" stroke-dasharray="10 9" marker-end="url(#openArrow)"/>
+  <circle cx="1450" cy="830" r="8" fill="#ffffff" stroke="#111111" stroke-width="3"/>
+  <path d="M1450 822 V755 H1130 V615" fill="none" stroke="#111111" stroke-width="3" stroke-dasharray="10 9" marker-end="url(#openArrow)"/>
   <text class="main label" text-anchor="middle" x="1005" y="832">Nachrichtenfluss</text>
   <text class="main small" text-anchor="middle" x="1005" y="860">Verbindet unterschiedliche Pools zur Kommunikation</text>
 </svg>
