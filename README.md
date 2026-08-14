@@ -1,6 +1,15 @@
 # DaVe-Abschlussbericht – digitale Anlagen
 
-Dieses Repository enthält die digitalen Anlagen zum Abschlussbericht des Projekts DaVe. 
+Dieses Repository ergänzt den Abschlussbericht des Projekts DaVe-QZ&BIOZ-BW und enthält ausschließlich die digitalen Anlagen zu zwei der sechs Arbeitspakete (AP Kostenanalyse und AP Datenflussanalyse, bearbeitet durch Fachgebiet Landwirtschaftliche Betriebslehre (410b); Uni Hohenheim).
+
+# Über das Projekt DaVe-QZ&BIOZ-BW:
+
+- Projekttitel: Datenraumbasierte Vertrauenswürdigkeit digitaler Qualitätsmanagementsysteme bei Einzel- und Gruppenzertifizierungsprozessen für Erzeugergruppen der pflanzlichen Erzeugung zur Sicherstellung der Nutzung der baden-württembergischen Qualitätsprogramme (DaVe QZBW)
+- Laufzeit: 2023–2026
+- Fördermittelgeber: Ministerium für Ernährung, Ländlichen Raum und Verbraucherschutz Baden-Württemberg (MLR)
+- Projektpartner: Ferdinand-Steinbeis-Institut (FSTI) und Universität Hohenheim, Fachgebiet Landwirtschaftliche Betriebslehre (410b)
+- Projektkoordination: Ferdinand-Steinbeis-Institut (FSTI)
+- Projektziel: Untersuchung vertrauenswürdiger digitaler Qualitätsmanagementsysteme für QZBW und BIOZBW – mit Fokus auf Einzel- und Gruppenzertifizierung, kooperative Datennutzung sowie organisatorische und wirtschaftliche Auswirkungen.
 
 ## Ergebnisartefakte
 
