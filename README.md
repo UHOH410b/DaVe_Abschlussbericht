@@ -1,6 +1,6 @@
 # DaVe-Abschlussbericht – digitale Anlagen
 
-Dieses Repository enthält die finalen digitalen Anlagen zum DaVe-Abschlussbericht. Alle Verzeichnisse auf der obersten Ebene sind gleichrangige Ergebnisartefakte des Projekts. Arbeitskopien, Zugangsdaten und urheberrechtlich geschützte Quelldokumente sind nicht enthalten.
+Dieses Repository enthält die digitalen Anlagen zum Abschlussbericht des Projekts DaVe. 
 
 ## Ergebnisartefakte
 
@@ -9,22 +9,10 @@ Dieses Repository enthält die finalen digitalen Anlagen zum DaVe-Abschlussberic
 - [`Kostenanalyse`](Kostenanalyse/): finale Kostenrechnung für QZBW und BIOZBW einschließlich Quellen, Annahmen, Sankey-Diagrammen und SankeyMATIC-Codes
 - [`Agrardatenkatalog_BW`](Agrardatenkatalog_BW/): Datenmodell, Dokumentation, Verarbeitungspipeline und eigenständiger Next.js-Nachbau des Forschungsdemonstrators
 
-## Zentrale Ergebnisse der Kostenanalyse
-
-Die enge Kostenrechnung umfasst ausschließlich zertifizierungsspezifische administrative Zusatzaufwände:
-
-- QZBW: 1.336,25 Euro pro Jahr, 42,125 Stunden und 43 Tätigkeiten
-- BIOZBW: 1.316,25 Euro pro Jahr, 42,125 Stunden und 44 Tätigkeiten
-- Differenz QZBW – BIOZBW: 20,00 Euro
-
-Die Rechenlogik, Annahmen, Quellen und SankeyMATIC-Codes sind in der finalen Arbeitsmappe dokumentiert.
-
 ## Nutzungshinweise
 
-- BPMN-Dateien lassen sich beispielsweise mit Signavio, Camunda Modeler oder bpmn.io öffnen.
-- Die Excel-Arbeitsmappen sind bereinigte Veröffentlichungsfassungen; interne Protokoll- und Zwischenblätter wurden entfernt.
-- Die Live-Suche des Agrardatenkatalogs benötigt einen erreichbaren Weaviate-Cluster und lokale Umgebungsvariablen. Beispieldateien ohne Zugangsdaten sind enthalten.
+- Die bereitgestellten BPMN-2.0-Dateien können mit geeigneten Modellierungswerkzeugen, beispielsweise SAP Signavio Process Manager, Camunda Modeler oder bpmn.io, geöffnet, interaktiv betrachtet und weiterbearbeitet werden. Ergänzend stehen statische Abbildungen der Prozessmodelle zur Verfügung.
 
-## Abgrenzung
+- Der Agrardatenkatalog BW ist ein Forschungs- und Demonstrationsprototyp. Die darin aufbereiteten Anforderungen und Datenerhebungen dienen der Forschung, Nachvollziehbarkeit und Evaluation. Die Anwendung ersetzt weder eine rechtliche Beratung noch eine fachaufsichtliche oder zertifizierungsbezogene Einzelfallprüfung.
 
-Der Agrardatenkatalog BW ist ein Forschungs- und Demonstrationsprototyp. Die strukturierten Anforderungen und Datenerhebungen dienen Forschung, Nachvollziehbarkeit und Evaluation; sie ersetzen keine rechtliche, fachaufsichtliche oder zertifizierungsbezogene Einzelfallprüfung.
+- Zum Zeitpunkt der Einreichung des Abschlussberichts war der Agrardatenkatalog BW unter <https://agrardatenkatalog-bw.base44.app> öffentlich erreichbar. Eine langfristige Bereitstellung der Anwendung kann nicht garantiert werden, da diese vom Fortbestand des verwendeten Plattformkontos und der externen Hosting-Infrastruktur abhängt. Die Anwendung kann daher künftig unter dieser Adresse nicht mehr erreichbar sein. Die wesentlichen Ergebnisartefakte und technischen Dokumentationen bleiben unabhängig davon in diesem Repository erhalten.
