@@ -22,7 +22,6 @@
       .main { font-family: Arial, Helvetica, sans-serif; fill: #111111; }
       .label { font-size: 27px; font-weight: 700; }
       .small { font-size: 19px; font-weight: 400; }
-      .tiny { font-size: 17px; font-weight: 400; }
       .laneTitle { font-size: 24px; font-weight: 700; }
       .stroke { stroke: #111111; stroke-width: 3; }
     </style>
@@ -30,69 +29,74 @@
 
   <rect x="0" y="0" width="1800" height="1040" fill="#ffffff"/>
 
-  <!-- Oberer Pool -->
-  <rect x="45" y="40" width="1710" height="690" rx="2" fill="url(#poolGreen)" class="stroke"/>
+  <!-- Pool mit zwei Lanes -->
+  <rect x="45" y="40" width="1710" height="690" fill="url(#poolGreen)" class="stroke"/>
   <rect x="45" y="40" width="76" height="690" fill="#d9f4dc" class="stroke"/>
   <text class="main label" text-anchor="middle" transform="rotate(-90 83 385)" x="83" y="385">Pool</text>
-  <text class="main small" x="240" y="78">Repräsentiert einen Prozessbeteiligten oder eine Organisation</text>
+  <text class="main small" x="245" y="78">Repräsentiert einen Prozessbeteiligten oder eine Organisation</text>
 
-  <!-- Lanes -->
-  <line x1="121" y1="440" x2="1755" y2="440" class="stroke"/>
-  <rect x="121" y="40" width="95" height="400" fill="#eef9ef" stroke="#111111" stroke-width="2"/>
-  <rect x="121" y="440" width="95" height="290" fill="#eef9ef" stroke="#111111" stroke-width="2"/>
-  <text class="main laneTitle" text-anchor="middle" transform="rotate(-90 168 240)" x="168" y="240">Lane</text>
-  <text class="main laneTitle" text-anchor="middle" transform="rotate(-90 168 585)" x="168" y="585">Lane</text>
-  <text class="main small" x="240" y="116">Ordnet Aktivitäten einer Rolle oder Funktion innerhalb des Pools zu</text>
+  <line x1="121" y1="410" x2="1755" y2="410" class="stroke"/>
+  <rect x="121" y="40" width="95" height="370" fill="#eef9ef" stroke="#111111" stroke-width="2"/>
+  <rect x="121" y="410" width="95" height="320" fill="#eef9ef" stroke="#111111" stroke-width="2"/>
+  <text class="main laneTitle" text-anchor="middle" transform="rotate(-90 168 225)" x="168" y="225">Lane</text>
+  <text class="main laneTitle" text-anchor="middle" transform="rotate(-90 168 570)" x="168" y="570">Lane</text>
+  <text class="main small" x="245" y="112">Ordnet Aktivitäten einer Rolle oder Funktion innerhalb des Pools zu</text>
 
-  <!-- Sequenzfluss -->
-  <line x1="400" y1="252" x2="580" y2="252" stroke="#111111" stroke-width="4" marker-end="url(#solidArrow)"/>
-  <path d="M890 252 H970 V560 H1075" fill="none" stroke="#111111" stroke-width="4" marker-end="url(#solidArrow)"/>
-  <path d="M1185 560 H1200 V430 H1000 V252 H1180" fill="none" stroke="#111111" stroke-width="4" marker-end="url(#solidArrow)"/>
-  <line x1="1320" y1="252" x2="1435" y2="252" stroke="#111111" stroke-width="4" marker-end="url(#solidArrow)"/>
-  <text class="main label" text-anchor="middle" x="985" y="151">Sequenzfluss</text>
-  <text class="main small" text-anchor="middle" x="985" y="177">Zeigt die Ausführungsreihenfolge von Aktivitäten an</text>
+  <!-- Bezeichnungen oberhalb des Ablaufs -->
+  <text class="main label" text-anchor="middle" x="800" y="150">Sequenzfluss</text>
+  <text class="main small" text-anchor="middle" x="800" y="178">Zeigt die Ausführungsreihenfolge von Aktivitäten an</text>
+  <text class="main label" text-anchor="middle" x="1290" y="135">Gateway</text>
+  <text class="main small" text-anchor="middle" x="1290" y="163">Stellt eine Verzweigung oder</text>
+  <text class="main small" text-anchor="middle" x="1290" y="188">Entscheidung im Prozess dar</text>
 
-  <!-- Startereignis -->
-  <circle cx="350" cy="252" r="50" fill="#ffffff" class="stroke"/>
-  <text class="main label" text-anchor="middle" x="350" y="326">Start-Ereignis</text>
-  <text class="main small" text-anchor="middle" x="350" y="353">Markiert den Beginn eines Prozesses</text>
+  <!-- Start-Ereignis -->
+  <circle cx="350" cy="270" r="46" fill="#ffffff" class="stroke"/>
+  <text class="main label" text-anchor="middle" x="350" y="342">Start-Ereignis</text>
+  <text class="main small" text-anchor="middle" x="350" y="373">Markiert den Beginn eines Prozesses</text>
 
   <!-- Aktivität -->
-  <rect x="580" y="185" width="310" height="134" rx="25" fill="url(#taskBlue)" class="stroke"/>
-  <text class="main label" text-anchor="middle" x="735" y="238">Aktivität</text>
-  <text class="main small" text-anchor="middle" x="735" y="271">Repräsentiert eine auszuführende</text>
-  <text class="main small" text-anchor="middle" x="735" y="297">Aufgabe oder einen Arbeitsschritt</text>
+  <rect x="560" y="205" width="310" height="130" rx="25" fill="url(#taskBlue)" class="stroke"/>
+  <text class="main label" text-anchor="middle" x="715" y="252">Aktivität</text>
+  <text class="main small" text-anchor="middle" x="715" y="285">Repräsentiert eine auszuführende</text>
+  <text class="main small" text-anchor="middle" x="715" y="311">Aufgabe oder einen Arbeitsschritt</text>
 
-  <!-- Gateway -->
-  <path d="M1250 182 L1320 252 L1250 322 L1180 252 Z" fill="#ffffff" class="stroke"/>
-  <path d="M1223 225 L1277 279 M1277 225 L1223 279" fill="none" stroke="#111111" stroke-width="8"/>
-  <text class="main label" text-anchor="middle" x="1250" y="350">Gateway</text>
-  <text class="main small" text-anchor="middle" x="1250" y="378">Stellt eine Verzweigung oder</text>
-  <text class="main small" text-anchor="middle" x="1250" y="404">Entscheidung im Prozess dar</text>
+  <!-- Exklusives Gateway -->
+  <path d="M1290 204 L1356 270 L1290 336 L1224 270 Z" fill="#ffffff" class="stroke"/>
+  <path d="M1265 245 L1315 295 M1315 245 L1265 295" fill="none" stroke="#111111" stroke-width="8"/>
 
-  <!-- Endereignis -->
-  <circle cx="1490" cy="252" r="50" fill="#ffffff" stroke="#111111" stroke-width="8"/>
-  <text class="main label" text-anchor="middle" x="1490" y="326">End-Ereignis</text>
-  <text class="main small" text-anchor="middle" x="1490" y="353">Markiert das Ende eines Prozesses</text>
+  <!-- End-Ereignis -->
+  <circle cx="1540" cy="270" r="46" fill="#ffffff" stroke="#111111" stroke-width="8"/>
+  <text class="main label" text-anchor="middle" x="1540" y="342">End-Ereignis</text>
+  <text class="main small" text-anchor="middle" x="1540" y="373">Markiert das Ende eines Prozesses</text>
 
-  <!-- Nachrichtenereignis als häufig genutztes Ereignis -->
-  <circle cx="1130" cy="560" r="55" fill="#ffffff" class="stroke"/>
-  <circle cx="1130" cy="560" r="48" fill="none" stroke="#111111" stroke-width="2"/>
-  <rect x="1095" y="536" width="70" height="48" fill="#ffffff" stroke="#111111" stroke-width="3"/>
-  <path d="M1095 536 L1130 562 L1165 536" fill="none" stroke="#111111" stroke-width="3"/>
-  <text class="main label" text-anchor="middle" x="680" y="535">Zwischenereignis</text>
-  <text class="main small" text-anchor="middle" x="680" y="570">Markiert ein Ereignis während des Prozesses;</text>
-  <text class="main small" text-anchor="middle" x="680" y="596">hier: Eingang einer Nachricht</text>
+  <!-- Nachrichten-Zwischenereignis -->
+  <circle cx="1020" cy="560" r="55" fill="#ffffff" class="stroke"/>
+  <circle cx="1020" cy="560" r="48" fill="none" stroke="#111111" stroke-width="2"/>
+  <rect x="985" y="536" width="70" height="48" fill="#ffffff" stroke="#111111" stroke-width="3"/>
+  <path d="M985 536 L1020 562 L1055 536" fill="none" stroke="#111111" stroke-width="3"/>
+  <text class="main label" text-anchor="middle" x="650" y="530">Zwischenereignis</text>
+  <text class="main small" text-anchor="middle" x="650" y="565">Markiert ein Ereignis während des Prozesses;</text>
+  <text class="main small" text-anchor="middle" x="650" y="591">hier: Eingang einer Nachricht</text>
 
-  <!-- Unterer Pool und Nachrichtenfluss -->
-  <rect x="45" y="780" width="1710" height="215" rx="2" fill="url(#poolGrey)" class="stroke"/>
-  <rect x="45" y="780" width="76" height="215" fill="#e3e7eb" class="stroke"/>
-  <text class="main label" text-anchor="middle" transform="rotate(-90 83 887)" x="83" y="887">Pool</text>
-  <rect x="1300" y="830" width="300" height="115" rx="23" fill="url(#taskBlue)" class="stroke"/>
-  <text class="main label" text-anchor="middle" x="1450" y="879">Aktivität</text>
-  <text class="main small" text-anchor="middle" x="1450" y="912">eines anderen Beteiligten</text>
-  <circle cx="1450" cy="830" r="8" fill="#ffffff" stroke="#111111" stroke-width="3"/>
-  <path d="M1450 822 V755 H1130 V615" fill="none" stroke="#111111" stroke-width="3" stroke-dasharray="10 9" marker-end="url(#openArrow)"/>
-  <text class="main label" text-anchor="middle" x="1005" y="832">Nachrichtenfluss</text>
-  <text class="main small" text-anchor="middle" x="1005" y="860">Verbindet unterschiedliche Pools zur Kommunikation</text>
+  <!-- Sequenzflüsse: gerade oder mit genau einem 90-Grad-Knick -->
+  <line x1="396" y1="270" x2="560" y2="270" stroke="#111111" stroke-width="4" marker-end="url(#solidArrow)"/>
+  <path d="M870 270 H1020 V505" fill="none" stroke="#111111" stroke-width="4" marker-end="url(#solidArrow)"/>
+  <path d="M1075 560 H1290 V336" fill="none" stroke="#111111" stroke-width="4" marker-end="url(#solidArrow)"/>
+  <line x1="1356" y1="270" x2="1494" y2="270" stroke="#111111" stroke-width="4" marker-end="url(#solidArrow)"/>
+
+  <!-- Zweiter Pool -->
+  <rect x="45" y="790" width="1710" height="210" fill="url(#poolGrey)" class="stroke"/>
+  <rect x="45" y="790" width="76" height="210" fill="#e3e7eb" class="stroke"/>
+  <text class="main label" text-anchor="middle" transform="rotate(-90 83 895)" x="83" y="895">Pool</text>
+
+  <rect x="880" y="845" width="280" height="110" rx="23" fill="url(#taskBlue)" class="stroke"/>
+  <text class="main label" text-anchor="middle" x="1020" y="890">Aktivität</text>
+  <text class="main small" text-anchor="middle" x="1020" y="922">eines anderen Beteiligten</text>
+
+  <!-- Gerader Nachrichtenfluss zum fangenden Zwischenereignis -->
+  <circle cx="1020" cy="845" r="8" fill="#ffffff" stroke="#111111" stroke-width="3"/>
+  <line x1="1020" y1="837" x2="1020" y2="615" stroke="#111111" stroke-width="3" stroke-dasharray="10 9" marker-end="url(#openArrow)"/>
+  <text class="main label" text-anchor="middle" x="1430" y="850">Nachrichtenfluss</text>
+  <text class="main small" text-anchor="middle" x="1430" y="880">Verbindet unterschiedliche Pools</text>
+  <text class="main small" text-anchor="middle" x="1430" y="906">zur Kommunikation</text>
 </svg>
