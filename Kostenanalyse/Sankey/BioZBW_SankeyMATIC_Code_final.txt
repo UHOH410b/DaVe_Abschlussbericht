@@ -1,20 +1,112 @@
-// BIOZBW: laufender administrativer Aufwand je Referenzgruppe (n=150)
-Gesamtkosten [42502,25] BIOZBW
-BIOZBW [34242,50] Genossenschaft
-BIOZBW [7500,00] Traubenerzeuger
-BIOZBW [729,75] Kontrollstelle
-BIOZBW [30,00] Externer Lizenznehmer
-Externer Lizenznehmer [30,00] Datenaufzeichnung und -pflege
-Genossenschaft [22,50] Archivierung von Nachweisen
-Genossenschaft [120,00] Ausfüllen von Checklisten und Formulare
-Genossenschaft [65,00] Datenaufzeichnung und -pflege
-Genossenschaft [30,00] Eigenkontrolle als Zeichennutzer
-Genossenschaft [18015,00] Interne Prüfungen innerhalb der Gruppe
-Genossenschaft [45,00] Kontroll-, Abweichungs- und Beschwerdedokumentation
-Genossenschaft [150,00] QMS-Dokumentation und -lenkung
-Genossenschaft [45,00] Qualifikation und Schulung
-Genossenschaft [15750,00] Rückverfolgbarkeits- und Plausibilitätsprüfung
-Kontrollstelle [534,05] Administrative QMS-Prüfung und Koordination
-Kontrollstelle [195,70] Kontrolldokumentation und Zertifizierungsentscheidung
-Traubenerzeuger [3750,00] Archivierung von Nachweisen
-Traubenerzeuger [3750,00] Ausfüllen von Checklisten und Formulare
+// SankeyMATIC – BioZBW – nur zertifizierungsspezifische administrative Zusatzaufwände
+// Aktualisiert: 05.08.2026
+// Monetarisierte Tätigkeiten: 44; Summe: 1316.25 EUR
+// QMS ist der einheitliche Oberbegriff. Interne Kontrollen sind Teilprozesse des QMS.
+// Physische Prüfungen, Laborleistungen und nicht ausgelöste bedingte Pflichten sind ausgeschlossen.
+// Die BioZBW-Eigenkontrollcheckliste des Traubenerzeugers wird als fachlich gesetzte Modellannahme berücksichtigt.
+// Die exakte Eingabereihenfolge hält Akteurs-, Rollen- und Tätigkeitsblöcke zusammen.
+
+// === Nodes and Flows ===
+
+Gesamt [1316.25] BioZBW
+BioZBW [87.5] Traubenerzeuger
+Traubenerzeuger [12.5] Teilnahmeerklärung gegenüber der Genossenschaft als Zeichennutzerin und Unternehmergruppe prüfen, unterzeichnen und übermitteln
+Traubenerzeuger [12.5] Datenschutzhinweise zur Teilnahmevereinbarung lesen und unterzeichnen
+Traubenerzeuger [25] Eigenkontrollcheckliste des landwirtschaftlichen Betriebs ausfüllen und ablegen
+Traubenerzeuger [25] Vorhandene Betriebsnachweise für das QMS zusammenstellen und der Unternehmergruppe übermitteln
+Traubenerzeuger [12.5] Umsetzung von Korrekturmaßnahmen dokumentieren und der Unternehmergruppe melden
+BioZBW [898.75] Genossenschaft
+Genossenschaft [757.5] Administrative Tätigkeiten im QMS der Erzeugergruppe
+Administrative Tätigkeiten im QMS der Erzeugergruppe [12.5] Teilnahmevereinbarung mit dem Gruppenmitglied ausfüllen, unterzeichnen und ablegen
+Administrative Tätigkeiten im QMS der Erzeugergruppe [25] Kontrollvertrag beziehungsweise Kontrollauftrag prüfen, unterzeichnen und ablegen
+Administrative Tätigkeiten im QMS der Erzeugergruppe [120] Mitglieder- und Meldedatei aktualisieren und jährlich an den Lizenznehmer übermitteln
+Administrative Tätigkeiten im QMS der Erzeugergruppe [60] Eigenkontrollcheckliste und betriebliche Nachweise des Gruppenmitglieds prüfen, Prüfergebnis dokumentieren und Mitglied freigeben
+Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Maßnahmenpläne prüfen und Prüfergebnis dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [30] Pflanzenschutzaufzeichnungen prüfen und Prüfergebnis dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [30] Düngemittelaufzeichnungen prüfen und Prüfergebnis dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Interne Inspektionen terminieren und Inspektionsplan pflegen
+Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Ernteaufzeichnungen prüfen und Prüfergebnis dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Verkaufszahlen prüfen und Prüfergebnis dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [30] Flächenangaben prüfen und Prüfergebnis dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Lieferscheine prüfen und Prüfergebnis dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Wareneingangsdokumente prüfen und Prüfergebnis dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Rechnungsunterlagen prüfen und Prüfergebnis dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Korrekturmaßnahmen definieren und Umsetzungsfristen dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Nachkontrolle durchführen und Ergebnis dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Beschwerden erfassen, untersuchen, klären und dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [45] Kontroll- und Abweichungsprotokolle führen
+Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Abweichungen kategorisieren und dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Erhebliche Verstöße, Mitgliedssperren und Vermarktungsverbote an die Kontrollstelle melden
+Administrative Tätigkeiten im QMS der Erzeugergruppe [120] QMS-Verfahren, Unterlagen und Aufzeichnungen erstellen, aktualisieren und bereitstellen
+Administrative Tätigkeiten im QMS der Erzeugergruppe [30] QMS-Kontrollunterlagen zusammenstellen und der Kontrollstelle bereitstellen
+Administrative Tätigkeiten im QMS der Erzeugergruppe [7.5] Mitgliederliste mit Kontrollstatus und Versionsstand aktualisieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Neue Mitglieder, Produktionseinheiten oder Tätigkeiten prüfen und Zulassung dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Interne QMS-Kontrolleure ernennen sowie Interessenkonflikte und Qualifikation dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [30] Interne QMS-Kontrolleure und Mitglieder schulen und Schulungsnachweise pflegen
+Administrative Tätigkeiten im QMS der Erzeugergruppe [7.5] Gruppenzertifikat prüfen, intern zuordnen und im QMS ablegen
+Genossenschaft [141.25] Administrative Tätigkeiten als Zeichennutzer
+Administrative Tätigkeiten als Zeichennutzer [25] Zeichennutzungsvertrag lesen, unterzeichnen und ablegen
+Administrative Tätigkeiten als Zeichennutzer [6.25] Datenschutzhinweise zum Zeichennutzungsvertrag lesen und unterzeichnen
+Administrative Tätigkeiten als Zeichennutzer [30] Eigenkontrollcheckliste des Zeichennutzers ausfüllen, aktualisieren und ablegen
+Administrative Tätigkeiten als Zeichennutzer [50] Warenflüsse zwischen zertifizierten und nicht zertifizierten Produkten trennen und nachvollziehbar dokumentieren
+Administrative Tätigkeiten als Zeichennutzer [15] BioZBW-Produktaufstellung aktualisieren und für Kontrollen bereitstellen
+Administrative Tätigkeiten als Zeichennutzer [15] Qualitätsprüfung administrativ anmelden sowie Ergebnisnachweis zuordnen und bereithalten
+BioZBW [270] Kontroll-/Zertifizierungsstelle
+Kontroll-/Zertifizierungsstelle [120] QMS anhand der Unterlagen verifizieren und Ergebnis dokumentieren
+Kontroll-/Zertifizierungsstelle [15] Externen QMS-Kontrolltermin abstimmen und erforderliche Kontrollunterlagen anfordern
+Kontroll-/Zertifizierungsstelle [120] Prüfergebnisse dokumentieren und Quartalsmeldung an die MBW übermitteln
+Kontroll-/Zertifizierungsstelle [15] Zertifizierungsentscheidung dokumentieren und Gruppenzertifikat beziehungsweise Zertifikatsdaten übermitteln
+BioZBW [60] Externer Lizenznehmer
+Externer Lizenznehmer [30] Zeichennutzungsvertrag der Genossenschaft prüfen und gegenzeichnen sowie Programmanmeldung weiterleiten
+Externer Lizenznehmer [30] Jahresmeldung der angeschlossenen Erzeuger und Zeichennutzer erstellen und an die MBW übermitteln
+
+// === Settings ===
+
+size w 2000
+  h 1050
+margin l 8
+  r 2
+  t 18
+  b 20
+bg color #ffffff
+  transparent N
+node w 2
+  h 44
+  spacing 73
+  border 0
+  theme c
+  color #888888
+  opacity 1
+flow curvature 0.26
+  inheritfrom target
+  color #999999
+  opacity 0.45
+layout order exact
+  justifyorigins N
+  justifyends Y
+  reversegraph N
+  attachincompletesto nearest
+labels color #000000
+  hide N
+  highlight 0.55
+  fontface sans-serif
+  linespacing 0
+  relativesize 100
+  magnify 96
+labelname appears Y
+  size 9
+  weight 400
+labelvalue appears Y
+  fullprecision Y
+  position before
+  weight 400
+labelposition autoalign 0
+  scheme auto
+  first before
+  breakpoint 7
+value format '.,'
+  prefix ''
+  suffix ' €'
+themeoffset a 6
+meta mentionsankeymatic N
+  listimbalances Y
