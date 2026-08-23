@@ -1,13 +1,13 @@
 // SankeyMATIC – QZBW – nur zertifizierungsspezifische administrative Zusatzaufwände
-// Aktualisiert: 04.08.2026
-// Monetarisierte Tätigkeiten: 43; Summe: 1336.25 EUR
+// Aktualisiert: 23.08.2026
+// Monetarisierte Tätigkeiten: 53; modellierter Referenzwert: 1099.7 EUR je Mitglied (Gruppe n=150); wegen gemischter Wiederholungslogik keine reine Jahressumme.
+// Lizenznehmer: 30 EUR laufende Verwaltung je Mitglied und Jahr; die einmalige Vertragsprüfung von 30 EUR bleibt als eigener Flow getrennt sichtbar.
+// Anlassbezogene Sanktionen/Ausschlüsse sowie physische Vor-Ort-, Reise- und Probenahmezeiten sind nicht monetarisiert.
 // QMS ist der einheitliche Oberbegriff. Interne Kontrollen sind Teilprozesse des QMS.
-// Physische Prüfungen, Laborleistungen und nicht ausgelöste bedingte Pflichten sind ausgeschlossen.
-// Die exakte Eingabereihenfolge hält Akteurs-, Rollen- und Tätigkeitsblöcke zusammen.
 
 // === Nodes and Flows ===
 
-Gesamt [1336.25] QZBW
+Gesamt [1099.7] QZBW
 QZBW [137.5] Traubenerzeuger
 Traubenerzeuger [12.5] Teilnahmevereinbarung mit der Erzeugergruppe prüfen, unterzeichnen und übermitteln
 Traubenerzeuger [25] Eigenkontroll-Checkliste des landwirtschaftlichen Betriebs ausfüllen und ablegen
@@ -18,31 +18,31 @@ Traubenerzeuger [12.5] Umsetzung von Korrekturmaßnahmen dokumentieren und der E
 QZBW [898.75] Genossenschaft
 Genossenschaft [772.5] Administrative Tätigkeiten im QMS der Erzeugergruppe
 Administrative Tätigkeiten im QMS der Erzeugergruppe [12.5] Teilnahmevereinbarung mit dem Gruppenmitglied ausfüllen, unterzeichnen und ablegen
-Administrative Tätigkeiten im QMS der Erzeugergruppe [25] Kontrollvertrag beziehungsweise Kontrollauftrag prüfen, unterzeichnen und ablegen
 Administrative Tätigkeiten im QMS der Erzeugergruppe [120] Excel-Meldedatei für jedes Gruppenmitglied ausfüllen und übermitteln
 Administrative Tätigkeiten im QMS der Erzeugergruppe [60] Eigenkontrollcheckliste des Traubenerzeugers prüfen und Prüfergebnis dokumentieren
 Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Maßnahmenpläne prüfen und Prüfergebnis dokumentieren
 Administrative Tätigkeiten im QMS der Erzeugergruppe [30] Pflanzenschutzaufzeichnungen prüfen und Prüfergebnis dokumentieren
 Administrative Tätigkeiten im QMS der Erzeugergruppe [30] Düngemittelaufzeichnungen prüfen und Prüfergebnis dokumentieren
-Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Interne Audits terminieren und Auditzeitplan pflegen
-Administrative Tätigkeiten im QMS der Erzeugergruppe [7.5] Mitgliedsfreigabe im Vier-Augen-Prinzip prüfen und dokumentieren
 Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Ernteaufzeichnungen prüfen und Prüfergebnis dokumentieren
 Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Verkaufszahlen prüfen und Prüfergebnis dokumentieren
 Administrative Tätigkeiten im QMS der Erzeugergruppe [30] Flächenangaben prüfen und Prüfergebnis dokumentieren
 Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Lieferscheine prüfen und Prüfergebnis dokumentieren
 Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Wareneingangsdokumente prüfen und Prüfergebnis dokumentieren
 Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Rechnungsunterlagen prüfen und Prüfergebnis dokumentieren
-Administrative Tätigkeiten im QMS der Erzeugergruppe [30] Rückverfolgbarkeitssystem anhand eines Warenbeispiels testen und Ergebnis dokumentieren
 Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Korrekturmaßnahmen definieren und Umsetzungsfristen dokumentieren
 Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Nachkontrolle durchführen und Ergebnis dokumentieren
 Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Beschwerden erfassen, untersuchen, klären und dokumentieren
 Administrative Tätigkeiten im QMS der Erzeugergruppe [45] Kontroll- und Abweichungsprotokolle führen
 Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Abweichungen kategorisieren und dokumentieren
 Administrative Tätigkeiten im QMS der Erzeugergruppe [120] QMS-Verfahren, Arbeitsanweisungen, Formulare und Aufzeichnungen ablegen, auf Aktualität prüfen und pflegen
-Administrative Tätigkeiten im QMS der Erzeugergruppe [30] QMS-Kontrollunterlagen zusammenstellen und der Zertifizierungsstelle bereitstellen
 Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Verfahren zur Aufnahme neuer Mitglieder pflegen und Neuaufnahme dokumentieren
 Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Qualifikations-, Zulassungs- und Begleitnachweise interner Auditoren und Kontrolleure pflegen
 Administrative Tätigkeiten im QMS der Erzeugergruppe [30] Schulungen planen sowie Inhalte und Teilnehmende dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [15] Interne Audits terminieren und Auditzeitplan pflegen
+Administrative Tätigkeiten im QMS der Erzeugergruppe [7.5] Mitgliedsfreigabe im Vier-Augen-Prinzip prüfen und dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [30] Rückverfolgbarkeitssystem anhand eines Warenbeispiels testen und Ergebnis dokumentieren
+Administrative Tätigkeiten im QMS der Erzeugergruppe [25] Kontrollvertrag beziehungsweise Kontrollauftrag prüfen, unterzeichnen und ablegen
+Administrative Tätigkeiten im QMS der Erzeugergruppe [30] QMS-Kontrollunterlagen zusammenstellen und der Zertifizierungsstelle bereitstellen
 Administrative Tätigkeiten im QMS der Erzeugergruppe [7.5] Gruppenzertifikat prüfen, intern zuordnen und im QMS ablegen
 Genossenschaft [126.25] Administrative Tätigkeiten als Zeichennutzer
 Administrative Tätigkeiten als Zeichennutzer [25] Zeichennutzungsvertrag lesen, unterzeichnen und ablegen
@@ -50,18 +50,33 @@ Administrative Tätigkeiten als Zeichennutzer [6.25] Datenschutzhinweise zum Zei
 Administrative Tätigkeiten als Zeichennutzer [30] Eigenkontrollcheckliste des Zeichennutzers ausfüllen und ablegen
 Administrative Tätigkeiten als Zeichennutzer [15] QZBW-Qualitätsnachweis beschaffen und für die Eigen- beziehungsweise Zertifizierungskontrolle bereithalten
 Administrative Tätigkeiten als Zeichennutzer [50] Warenflüsse zwischen QZBW- und Nicht-QZBW-Ware trennen und nachvollziehbar dokumentieren
-QZBW [270] Kontroll-/Zertifizierungsstelle
-Kontroll-/Zertifizierungsstelle [120] QMS einschließlich interner Kontrollen anhand der Unterlagen verifizieren und Ergebnis dokumentieren
-Kontroll-/Zertifizierungsstelle [15] Externen QMS-Kontrolltermin abstimmen und erforderliche Kontrollunterlagen anfordern
-Kontroll-/Zertifizierungsstelle [120] Kontrollstellenmeldung in der vorgegebenen Excel-Datei ausfüllen und übermitteln
-Kontroll-/Zertifizierungsstelle [15] Zertifizierungsentscheidung dokumentieren und Gruppenzertifikat beziehungsweise Zertifikatsdaten übermitteln
-QZBW [30] Externer Lizenznehmer
-Externer Lizenznehmer [30] Zeichennutzungsvertrag der Erzeugergruppe prüfen und gegenzeichnen sowie Programmanmeldung weiterleiten
+QZBW [3.45] Kontroll-/Zertifizierungsstelle
+Kontroll-/Zertifizierungsstelle [1.8] Administrative Prüfung des Gruppen-QMS
+Administrative Prüfung des Gruppen-QMS [0.8] QMS einschließlich interner Kontrollen anhand der Unterlagen verifizieren und Ergebnis dokumentieren
+Administrative Prüfung des Gruppen-QMS [0.8] Prüfergebnisse dokumentieren, an auditierten Betrieb und Lizenznehmer übermitteln sowie Quartalsbericht an die MBW erstellen
+Administrative Prüfung des Gruppen-QMS [0.1] Externen QMS-Kontrolltermin abstimmen und erforderliche Kontrollunterlagen anfordern
+Administrative Prüfung des Gruppen-QMS [0.1] Zertifizierungsentscheidung dokumentieren und Gruppenzertifikat beziehungsweise Zertifikatsdaten übermitteln
+Kontroll-/Zertifizierungsstelle [0.25] Administrative Tätigkeiten der Zeichennutzerkontrolle
+Administrative Tätigkeiten der Zeichennutzerkontrolle [0.05] Jährliche Zeichennutzerkontrolle terminieren und programmspezifische Unterlagen anfordern
+Administrative Tätigkeiten der Zeichennutzerkontrolle [0.2] Eigenkontrollsystem, Produkt- und Qualitätsnachweise, Waren- und Herkunftsdokumentation, Rückverfolgbarkeit und Kennzeichnung prüfen und Kontrollcheckliste vervollständigen
+Kontroll-/Zertifizierungsstelle [1.4] Administrative Vor- und Nachbereitung der Mitgliederstichprobe
+Administrative Vor- und Nachbereitung der Mitgliederstichprobe [0.1] Risikobasierte Mitgliederstichprobe auswählen und jährlichen Kontrollplan dokumentieren
+Administrative Vor- und Nachbereitung der Mitgliederstichprobe [0.65] Termin und Unterlagen je ausgewähltem Mitglied koordinieren und Kontrollakte vorbereiten
+Administrative Vor- und Nachbereitung der Mitgliederstichprobe [0.65] Kontrollcheckliste je Stichprobenmitglied abschließen, Ergebnis und gegebenenfalls Abweichungen dokumentieren und Kontrollakte schließen
+QZBW [60] Externer Lizenznehmer
+Externer Lizenznehmer [30] Einmalige Vertragsprüfung und Programmanmeldung
+Einmalige Vertragsprüfung und Programmanmeldung [30] Zeichennutzungsvertrag der Erzeugergruppe prüfen und gegenzeichnen sowie Programmanmeldung weiterleiten
+Externer Lizenznehmer [30] Laufende teilnehmerbezogene Lizenznehmerverwaltung
+Laufende teilnehmerbezogene Lizenznehmerverwaltung [5] Programminhalte und vertragliche Verpflichtungen der angeschlossenen Teilnehmer laufend überwachen
+Laufende teilnehmerbezogene Lizenznehmerverwaltung [7.5] Vorgesehene Kontrollen veranlassen und deren Durchführung administrativ überwachen
+Laufende teilnehmerbezogene Lizenznehmerverwaltung [7.5] Prüfergebnisse zuordnen, Teilnehmerstatus aktualisieren und gewöhnliche Korrekturhinweise nachverfolgen
+Laufende teilnehmerbezogene Lizenznehmerverwaltung [7.5] Neuanmeldungen und Stammdatenänderungen verwalten und unverzüglich an die MBW melden
+Laufende teilnehmerbezogene Lizenznehmerverwaltung [2.5] Jahresmeldung der angeschlossenen Erzeuger und Zeichennutzer erstellen, plausibilisieren und an die MBW übermitteln
 
 // === Settings ===
 
 size w 2000
-  h 1050
+  h 1200
 margin l 8
   r 2
   t 18
