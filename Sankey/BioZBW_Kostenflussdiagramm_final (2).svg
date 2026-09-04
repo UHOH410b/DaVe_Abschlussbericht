@@ -1,0 +1,473 @@
+<svg height="1200" width="2000" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 4.9.2026, 15:19:42 -->
+<rect height="1200" width="2000" fill="#ffffff"></rect>
+<g transform="translate(88.62891,18)">
+<g id="sankey_flows">
+<path id="flow0" d="M2 253.81897v540.96L281.80237 794.77897v-540.96z" fill="#d95f02" stroke-width="0.5" stroke="#d95f02" opacity="0.45"><title>Gesamt → BioZBW: 1.049,90 €</title></path>
+<path id="flow7" d="M283.80237 298.90326v463.0801L563.60474 760.92061v-463.0801z" fill="#1b9e77" stroke-width="0.5" stroke="#1b9e77" opacity="0.45"><title>BioZBW → Genossenschaft: 898,75 €</title></path>
+<path id="flow8" d="M565.60474 492.99109C638.35335 492.99109 772.65849 479.44609 845.40711 479.44609" fill="none" stroke-width="390.30117" stroke="#d95f02" opacity="0.45"><title>Genossenschaft → Administrative Tätigkeiten im QMS der Erzeugergruppe: 757,50 €</title></path>
+<path id="flow36" d="M565.60474 724.53114C638.35335 724.53114 772.65849 790.40857 845.40711 790.40857" fill="none" stroke-width="72.77893" stroke="#d95f02" opacity="0.45"><title>Genossenschaft → Administrative Tätigkeiten als Zeichennutzer: 141,25 €</title></path>
+<path id="flow10" d="M847.40711 321.65106C920.15572 321.65106 1054.46086 218.59093 1127.20947 218.59093" fill="none" stroke-width="61.82989" stroke="#e7298a" opacity="0.45"><title>Administrative Tätigkeiten im QMS der Erzeugergruppe → Mitglieder- und Meldedatei aktualisieren und jährlich an den Lizenznehmer übermitteln: 120,00 €</title></path>
+<path id="flow26" d="M847.40711 561.24188C920.15572 561.24188 1054.46086 597.67688 1127.20947 597.67688" fill="none" stroke-width="61.82989" stroke="#7570b3" opacity="0.45"><title>Administrative Tätigkeiten im QMS der Erzeugergruppe → QMS-Verfahren, Unterlagen und Aufzeichnungen erstellen, aktualisieren und bereitstellen: 120,00 €</title></path>
+<path id="flow1" d="M283.80237 276.36112C356.55098 276.36112 490.85612 226.34422 563.60474 226.34422" fill="none" stroke-width="45.08429" stroke="#7570b3" opacity="0.45"><title>BioZBW → Traubenerzeuger: 87,50 €</title></path>
+<path id="flow11" d="M847.40711 368.02348C920.15572 368.02348 1054.46086 273.68179 1127.20947 273.68179" fill="none" stroke-width="30.91494" stroke="#666666" opacity="0.45"><title>Administrative Tätigkeiten im QMS der Erzeugergruppe → Eigenkontrollcheckliste und betriebliche Nachweise des Gruppenmitglieds prüfen, Prüfergebnis dokumentieren und Mitglied freigeben: 60,00 €</title></path>
+<path id="flow56" d="M283.80237 779.3215C356.55098 779.3215 490.85612 864.21563 563.60474 864.21563" fill="none" stroke-width="30.91494" stroke="#d95f02" opacity="0.45"><title>BioZBW → Externer Lizenznehmer: 60,00 €</title></path>
+<path id="flow40" d="M847.40711 798.45933C920.15572 798.45933 1054.46086 868.81171 1127.20947 868.81171" fill="none" stroke-width="25.76245" stroke="#66a61e" opacity="0.45"><title>Administrative Tätigkeiten als Zeichennutzer → Warenflüsse zwischen zertifizierten und nicht zertifizierten Produkten trennen und nachvollziehbar dokumentieren: 50,00 €</title></path>
+<path id="flow24" d="M847.40711 511.0051C920.15572 511.0051 1054.46086 530.00321 1127.20947 530.00321" fill="none" stroke-width="23.18621" stroke="#1b9e77" opacity="0.45"><title>Administrative Tätigkeiten im QMS der Erzeugergruppe → Kontroll- und Abweichungsprotokolle führen: 45,00 €</title></path>
+<path id="flow13" d="M847.40711 398.93842C920.15572 398.93842 1054.46086 322.03363 1127.20947 322.03363" fill="none" stroke-width="15.45747" stroke="#e6ab02" opacity="0.45"><title>Administrative Tätigkeiten im QMS der Erzeugergruppe → Pflanzenschutzaufzeichnungen prüfen und Prüfergebnis dokumentieren: 30,00 €</title></path>
+<path id="flow14" d="M847.40711 414.3959C920.15572 414.3959 1054.46086 346.20955 1127.20947 346.20955" fill="none" stroke-width="15.45747" stroke="#a6761d" opacity="0.45"><title>Administrative Tätigkeiten im QMS der Erzeugergruppe → Düngemittelaufzeichnungen prüfen und Prüfergebnis dokumentieren: 30,00 €</title></path>
+<path id="flow17" d="M847.40711 445.31084C920.15572 445.31084 1054.46086 403.27983 1127.20947 403.27983" fill="none" stroke-width="15.45747" stroke="#d95f02" opacity="0.45"><title>Administrative Tätigkeiten im QMS der Erzeugergruppe → Flächenangaben prüfen und Prüfergebnis dokumentieren: 30,00 €</title></path>
+<path id="flow29" d="M847.40711 611.47867C920.15572 611.47867 1054.46086 674.06901 1127.20947 674.06901" fill="none" stroke-width="15.45747" stroke="#66a61e" opacity="0.45"><title>Administrative Tätigkeiten im QMS der Erzeugergruppe → interne QMS-Kontrolleure und Mitglieder schulen und Schulungsnachweise pflegen: 30,00 €</title></path>
+<path id="flow34" d="M847.40711 663.00357C920.15572 663.00357 1054.46086 769.18615 1127.20947 769.18615" fill="none" stroke-width="15.45747" stroke="#d95f02" opacity="0.45"><title>Administrative Tätigkeiten im QMS der Erzeugergruppe → QMS-Kontrollunterlagen zusammenstellen und der Kontrollstelle bereitstellen: 30,00 €</title></path>
+<path id="flow39" d="M847.40711 777.84937C920.15572 777.84937 1054.46086 839.4833 1127.20947 839.4833" fill="none" stroke-width="15.45747" stroke="#666666" opacity="0.45"><title>Administrative Tätigkeiten als Zeichennutzer → Eigenkontrollcheckliste des Zeichennutzers ausfüllen, aktualisieren und ablegen: 30,00 €</title></path>
+<path id="flow57" d="M565.60474 856.4869C638.35335 856.4869 772.65849 933.93403 845.40711 933.93403" fill="none" stroke-width="15.45747" stroke="#7570b3" opacity="0.45"><title>Externer Lizenznehmer → Einmalige Vertragsprüfung und Programmanmeldung: 30,00 €</title></path>
+<path id="flow58" d="M847.40711 933.93403C920.15572 933.93403 1054.46086 1011.38116 1127.20947 1011.38116" fill="none" stroke-width="15.45747" stroke="#e7298a" opacity="0.45"><title>Einmalige Vertragsprüfung und Programmanmeldung → Zeichennutzungsvertrag der Genossenschaft prüfen und gegenzeichnen sowie Programmanmeldung weiterleiten: 30,00 €</title></path>
+<path id="flow59" d="M565.60474 871.94437C638.35335 871.94437 772.65849 964.28551 845.40711 964.28551" fill="none" stroke-width="15.45747" stroke="#e7298a" opacity="0.45"><title>Externer Lizenznehmer → Laufende teilnehmerbezogene Lizenznehmerverwaltung: 30,00 €</title></path>
+<path id="flow4" d="M565.60474 223.12391C711.62197 223.12391 981.19224 120.59913 1127.20947 120.59913" fill="none" stroke-width="12.88123" stroke="#e6ab02" opacity="0.45"><title>Traubenerzeuger → Vorhandene Betriebsnachweise für das QMS zusammenstellen und der Unternehmergruppe übermitteln: 25,00 €</title></path>
+<path id="flow6" d="M565.60474 242.44575C711.62197 242.44575 981.19224 157.35786 1127.20947 157.35786" fill="none" stroke-width="12.88123" stroke="#666666" opacity="0.45"><title>Traubenerzeuger → Eigenkontrollcheckliste des landwirtschaftlichen Betriebs ausfüllen und ablegen: 25,00 €</title></path>
+<path id="flow33" d="M847.40711 648.83422C920.15572 648.83422 1054.46086 746.29835 1127.20947 746.29835" fill="none" stroke-width="12.88123" stroke="#1b9e77" opacity="0.45"><title>Administrative Tätigkeiten im QMS der Erzeugergruppe → Kontrollvertrag beziehungsweise Kontrollauftrag prüfen, unterzeichnen und ablegen: 25,00 €</title></path>
+<path id="flow37" d="M847.40711 760.45971C920.15572 760.45971 1054.46086 804.65676 1127.20947 804.65676" fill="none" stroke-width="12.88123" stroke="#e7298a" opacity="0.45"><title>Administrative Tätigkeiten als Zeichennutzer → Zeichennutzungsvertrag lesen, unterzeichnen und ablegen: 25,00 €</title></path>
+<path id="flow12" d="M847.40711 387.34532C920.15572 387.34532 1054.46086 301.72208 1127.20947 301.72208" fill="none" stroke-width="7.72874" stroke="#66a61e" opacity="0.45"><title>Administrative Tätigkeiten im QMS der Erzeugergruppe → Maßnahmenpläne prüfen und Prüfergebnis dokumentieren: 15,00 €</title></path>
+<path id="flow15" d="M847.40711 425.989C920.15572 425.989 1054.46086 366.5211 1127.20947 366.5211" fill="none" stroke-width="7.72874" stroke="#666666" opacity="0.45"><title>Administrative Tätigkeiten im QMS der Erzeugergruppe → Ernteaufzeichnungen prüfen und Prüfergebnis dokumentieren: 15,00 €</title></path>
+<path id="flow16" d="M847.40711 433.71774C920.15572 433.71774 1054.46086 382.96828 1127.20947 382.96828" fill="none" stroke-width="7.72874" stroke="#1b9e77" opacity="0.45"><title>Administrative Tätigkeiten im QMS der Erzeugergruppe → Verkaufszahlen prüfen und Prüfergebnis dokumentieren: 15,00 €</title></path>
+<path id="flow18" d="M847.40711 456.90394C920.15572 456.90394 1054.46086 423.59138 1127.20947 423.59138" fill="none" stroke-width="7.72874" stroke="#7570b3" opacity="0.45"><title>Administrative Tätigkeiten im QMS der Erzeugergruppe → Lieferscheine prüfen und Prüfergebnis dokumentieren: 15,00 €</title></path>
+<path id="flow19" d="M847.40711 464.63268C920.15572 464.63268 1054.46086 440.03856 1127.20947 440.03856" fill="none" stroke-width="7.72874" stroke="#e7298a" opacity="0.45"><title>Administrative Tätigkeiten im QMS der Erzeugergruppe → Wareneingangsdokumente prüfen und Prüfergebnis dokumentieren: 15,00 €</title></path>
+<path id="flow20" d="M847.40711 472.36142C920.15572 472.36142 1054.46086 456.48574 1127.20947 456.48574" fill="none" stroke-width="7.72874" stroke="#66a61e" opacity="0.45"><title>Administrative Tätigkeiten im QMS der Erzeugergruppe → Rechnungsunterlagen prüfen und Prüfergebnis dokumentieren: 15,00 €</title></path>
+<path id="flow21" d="M847.40711 480.09015C920.15572 480.09015 1054.46086 472.93293 1127.20947 472.93293" fill="none" stroke-width="7.72874" stroke="#e6ab02" opacity="0.45"><title>Administrative Tätigkeiten im QMS der Erzeugergruppe → Korrekturmaßnahmen definieren und Umsetzungsfristen dokumentieren: 15,00 €</title></path>
+<path id="flow22" d="M847.40711 483.95452v7.72874L1127.20947 493.24448v-7.72874z" fill="#a6761d" stroke-width="0.5" stroke="#a6761d" opacity="0.45"><title>Administrative Tätigkeiten im QMS der Erzeugergruppe → Nachkontrolle durchführen und Ergebnis dokumentieren: 15,00 €</title></path>
+<path id="flow23" d="M847.40711 495.54762C920.15572 495.54762 1054.46086 505.82729 1127.20947 505.82729" fill="none" stroke-width="7.72874" stroke="#666666" opacity="0.45"><title>Administrative Tätigkeiten im QMS der Erzeugergruppe → Beschwerden erfassen, untersuchen, klären und dokumentieren: 15,00 €</title></path>
+<path id="flow25" d="M847.40711 526.46257C920.15572 526.46257 1054.46086 554.17913 1127.20947 554.17913" fill="none" stroke-width="7.72874" stroke="#d95f02" opacity="0.45"><title>Administrative Tätigkeiten im QMS der Erzeugergruppe → Abweichungen kategorisieren und dokumentieren: 15,00 €</title></path>
+<path id="flow28" d="M847.40711 599.88556C920.15572 599.88556 1054.46086 653.75746 1127.20947 653.75746" fill="none" stroke-width="7.72874" stroke="#66a61e" opacity="0.45"><title>Administrative Tätigkeiten im QMS der Erzeugergruppe → interne QMS-Kontrolleure ernennen sowie Interessenkonflikte und Qualifikation dokumentieren: 15,00 €</title></path>
+<path id="flow30" d="M847.40711 623.07177C920.15572 623.07177 1054.46086 694.38056 1127.20947 694.38056" fill="none" stroke-width="7.72874" stroke="#e6ab02" opacity="0.45"><title>Administrative Tätigkeiten im QMS der Erzeugergruppe → Interne Inspektionen terminieren und Inspektionsplan pflegen: 15,00 €</title></path>
+<path id="flow31" d="M847.40711 630.80051C920.15572 630.80051 1054.46086 710.82774 1127.20947 710.82774" fill="none" stroke-width="7.72874" stroke="#a6761d" opacity="0.45"><title>Administrative Tätigkeiten im QMS der Erzeugergruppe → Neue Mitglieder, Produktionseinheiten oder Tätigkeiten prüfen und Zulassung dokumentieren: 15,00 €</title></path>
+<path id="flow32" d="M847.40711 638.52924C920.15572 638.52924 1054.46086 727.27492 1127.20947 727.27492" fill="none" stroke-width="7.72874" stroke="#666666" opacity="0.45"><title>Administrative Tätigkeiten im QMS der Erzeugergruppe → Erhebliche Verstöße, Mitgliedssperren und Vermarktungsverbote an die Kontrollstelle melden: 15,00 €</title></path>
+<path id="flow41" d="M847.40711 815.20493C920.15572 815.20493 1054.46086 894.27575 1127.20947 894.27575" fill="none" stroke-width="7.72874" stroke="#e6ab02" opacity="0.45"><title>Administrative Tätigkeiten als Zeichennutzer → BioZBW-Produktaufstellung aktualisieren und für Kontrollen bereitstellen: 15,00 €</title></path>
+<path id="flow42" d="M847.40711 822.93366C920.15572 822.93366 1054.46086 910.72294 1127.20947 910.72294" fill="none" stroke-width="7.72874" stroke="#a6761d" opacity="0.45"><title>Administrative Tätigkeiten als Zeichennutzer → Qualitätsprüfung administrativ anmelden sowie Ergebnisnachweis zuordnen und bereithalten: 15,00 €</title></path>
+<path id="flow2" d="M565.60474 207.02238C711.62197 207.02238 981.19224 87.06071 1127.20947 87.06071" fill="none" stroke-width="6.44061" stroke="#e7298a" opacity="0.45"><title>Traubenerzeuger → Teilnahmeerklärung gegenüber der Genossenschaft als Zeichennutzerin und Unternehmergruppe prüfen, unterzeichnen und übermitteln: 12,50 €</title></path>
+<path id="flow3" d="M565.60474 213.46299C711.62197 213.46299 981.19224 102.21977 1127.20947 102.21977" fill="none" stroke-width="6.44061" stroke="#66a61e" opacity="0.45"><title>Traubenerzeuger → Datenschutzhinweise zur Teilnahmevereinbarung lesen und unterzeichnen: 12,50 €</title></path>
+<path id="flow5" d="M565.60474 232.78483C711.62197 232.78483 981.19224 138.9785 1127.20947 138.9785" fill="none" stroke-width="6.44061" stroke="#a6761d" opacity="0.45"><title>Traubenerzeuger → Umsetzung von Korrekturmaßnahmen dokumentieren und der Unternehmergruppe melden: 12,50 €</title></path>
+<path id="flow9" d="M847.40711 287.51581C920.15572 287.51581 1054.46086 175.73723 1127.20947 175.73723" fill="none" stroke-width="6.44061" stroke="#7570b3" opacity="0.45"><title>Administrative Tätigkeiten im QMS der Erzeugergruppe → Teilnahmevereinbarung mit dem Gruppenmitglied ausfüllen, unterzeichnen und ablegen: 12,50 €</title></path>
+<path id="flow27" d="M847.40711 594.08901C920.15572 594.08901 1054.46086 639.24246 1127.20947 639.24246" fill="none" stroke-width="3.86437" stroke="#e7298a" opacity="0.45"><title>Administrative Tätigkeiten im QMS der Erzeugergruppe → Mitgliederliste mit Kontrollstatus und Versionsstand aktualisieren: 7,50 €</title></path>
+<path id="flow35" d="M847.40711 672.66449C920.15572 672.66449 1054.46086 787.56551 1127.20947 787.56551" fill="none" stroke-width="3.86437" stroke="#7570b3" opacity="0.45"><title>Administrative Tätigkeiten im QMS der Erzeugergruppe → Gruppenzertifikat prüfen, intern zuordnen und im QMS ablegen: 7,50 €</title></path>
+<path id="flow62" d="M847.40711 962.35333C920.15572 962.35333 1054.46086 1051.06179 1127.20947 1051.06179" fill="none" stroke-width="3.86437" stroke="#a6761d" opacity="0.45"><title>Laufende teilnehmerbezogene Lizenznehmerverwaltung → Vorgesehene Kontrollen veranlassen und deren Durchführung administrativ überwachen: 7,50 €</title></path>
+<path id="flow63" d="M847.40711 966.2177C920.15572 966.2177 1054.46086 1063.6446 1127.20947 1063.6446" fill="none" stroke-width="3.86437" stroke="#d95f02" opacity="0.45"><title>Laufende teilnehmerbezogene Lizenznehmerverwaltung → Prüfergebnisse zuordnen, Teilnehmerstatus aktualisieren und gewöhnliche Korrekturhinweise nachverfolgen: 7,50 €</title></path>
+<path id="flow64" d="M847.40711 970.08206C920.15572 970.08206 1054.46086 1076.22742 1127.20947 1076.22742" fill="none" stroke-width="3.86437" stroke="#666666" opacity="0.45"><title>Laufende teilnehmerbezogene Lizenznehmerverwaltung → Neuanmeldungen und Stammdatenänderungen verwalten und unverzüglich an die MBW melden: 7,50 €</title></path>
+<path id="flow38" d="M847.40711 768.51048C920.15572 768.51048 1054.46086 821.42597 1127.20947 821.42597" fill="none" stroke-width="3.22031" stroke="#66a61e" opacity="0.45"><title>Administrative Tätigkeiten als Zeichennutzer → Datenschutzhinweise zum Zeichennutzungsvertrag lesen und unterzeichnen: 6,25 €</title></path>
+<path id="flow61" d="M847.40711 959.13302C920.15572 959.13302 1054.46086 1039.12303 1127.20947 1039.12303" fill="none" stroke-width="2.57625" stroke="#e6ab02" opacity="0.45"><title>Laufende teilnehmerbezogene Lizenznehmerverwaltung → Programminhalte und vertragliche Verpflichtungen der angeschlossenen Teilnehmer laufend überwachen: 5,00 €</title></path>
+<path id="flow43" d="M283.80237 762.9237C356.55098 762.9237 490.85612 828.12337 563.60474 828.12337" fill="none" stroke-width="1.88066" stroke="#666666" opacity="0.45"><title>BioZBW → Kontroll-/Zertifizierungsstelle: 3,65 €</title></path>
+<path id="flow60" d="M847.40711 957.20084C920.15572 957.20084 1054.46086 1028.4724 1127.20947 1028.4724" fill="none" stroke-width="1.28812" stroke="#66a61e" opacity="0.45"><title>Laufende teilnehmerbezogene Lizenznehmerverwaltung → Jahresmeldung der angeschlossenen Erzeuger und Zeichennutzer erstellen, plausibilisieren und an die MBW übermitteln: 2,50 €</title></path>
+<path id="flow44" d="M565.60474 827.64676C638.35335 827.64676 772.65849 878.85644 845.40711 878.85644" fill="none" stroke-width="1" stroke="#d95f02" opacity="0.45"><title>Kontroll-/Zertifizierungsstelle → Administrative Prüfung des Gruppen-QMS: 1,80 €</title></path>
+<path id="flow52" d="M565.60474 828.6515C638.35335 828.6515 772.65849 908.99835 845.40711 908.99835" fill="none" stroke-width="1" stroke="#d95f02" opacity="0.45"><title>Kontroll-/Zertifizierungsstelle → Administrative Vor- und Nachbereitung der Mitgliederstichprobe: 1,60 €</title></path>
+<path id="flow45" d="M847.40711 878.59882C920.15572 878.59882 1054.46086 923.51185 1127.20947 923.51185" fill="none" stroke-width="1" stroke="#1b9e77" opacity="0.45"><title>Administrative Prüfung des Gruppen-QMS → QMS anhand der Unterlagen verifizieren und Ergebnis dokumentieren: 0,80 €</title></path>
+<path id="flow46" d="M847.40711 879.01102C920.15572 879.01102 1054.46086 932.6425 1127.20947 932.6425" fill="none" stroke-width="1" stroke="#d95f02" opacity="0.45"><title>Administrative Prüfung des Gruppen-QMS → Prüfergebnisse dokumentieren und Quartalsmeldung an die MBW übermitteln: 0,80 €</title></path>
+<path id="flow54" d="M847.40711 908.83089C920.15572 908.83089 1054.46086 985.63588 1127.20947 985.63588" fill="none" stroke-width="1" stroke="#666666" opacity="0.45"><title>Administrative Vor- und Nachbereitung der Mitgliederstichprobe → Termin und Unterlagen je ausgewähltem Mitglied koordinieren und Kontrollakte vorbereiten: 0,75 €</title></path>
+<path id="flow55" d="M847.40711 909.21733C920.15572 909.21733 1054.46086 994.74076 1127.20947 994.74076" fill="none" stroke-width="1" stroke="#1b9e77" opacity="0.45"><title>Administrative Vor- und Nachbereitung der Mitgliederstichprobe → Kontrollcheckliste je Stichprobenmitglied abschließen, Ergebnis und gegebenenfalls Abweichungen dokumentieren und Kontrollakte schließen: 0,75 €</title></path>
+<path id="flow49" d="M565.60474 828.17489C638.35335 828.17489 772.65849 897.16052 845.40711 897.16052" fill="none" stroke-width="1" stroke="#d95f02" opacity="0.45"><title>Kontroll-/Zertifizierungsstelle → Administrative Tätigkeiten der Zeichennutzerkontrolle: 0,25 €</title></path>
+<path id="flow51" d="M847.40711 897.1734C920.15572 897.1734 1054.46086 967.90272 1127.20947 967.90272" fill="none" stroke-width="1" stroke="#e6ab02" opacity="0.45"><title>Administrative Tätigkeiten der Zeichennutzerkontrolle → Eigenkontrollsystem, Produkt- und Qualitätsnachweise, Waren- und Herkunftsdokumentation, Rückverfolgbarkeit und Kennzeichnung prüfen und Kontrollcheckliste vervollständigen: 0,20 €</title></path>
+<path id="flow47" d="M847.40711 879.24288C920.15572 879.24288 1054.46086 941.5928 1127.20947 941.5928" fill="none" stroke-width="1" stroke="#7570b3" opacity="0.45"><title>Administrative Prüfung des Gruppen-QMS → Externen QMS-Kontrolltermin abstimmen und erforderliche Kontrollunterlagen anfordern: 0,10 €</title></path>
+<path id="flow48" d="M847.40711 879.29441C920.15572 879.29441 1054.46086 950.36277 1127.20947 950.36277" fill="none" stroke-width="1" stroke="#e7298a" opacity="0.45"><title>Administrative Prüfung des Gruppen-QMS → Zertifizierungsentscheidung dokumentieren und Gruppenzertifikat beziehungsweise Zertifikatsdaten übermitteln: 0,10 €</title></path>
+<path id="flow53" d="M847.40711 908.61191C920.15572 908.61191 1054.46086 976.69845 1127.20947 976.69845" fill="none" stroke-width="1" stroke="#a6761d" opacity="0.45"><title>Administrative Vor- und Nachbereitung der Mitgliederstichprobe → Risikobasierte Mitgliederstichprobe auswählen und jährlichen Kontrollplan dokumentieren: 0,10 €</title></path>
+<path id="flow50" d="M847.40711 897.10899C920.15572 897.10899 1054.46086 959.11986 1127.20947 959.11986" fill="none" stroke-width="1" stroke="#66a61e" opacity="0.45"><title>Administrative Tätigkeiten der Zeichennutzerkontrolle → Jährliche Zeichennutzerkontrolle terminieren und programmspezifische Unterlagen anfordern: 0,05 €</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0" class="for_r0" x="0" y="253.81897" height="540.96" width="2" fill="#1b9e77" fill-opacity="1"><title>Gesamt:
+1.049,90 €</title></rect>
+</g>
+<g class="node">
+<rect id="r1" class="for_r1" x="281.80237" y="253.81897" height="540.96" width="2" fill="#d95f02" fill-opacity="1"><title>BioZBW:
+1.049,90 €</title></rect>
+</g>
+<g class="node">
+<rect id="r2" class="for_r2" x="563.60474" y="203.80207" height="45.08429" width="2" fill="#7570b3" fill-opacity="1"><title>Traubenerzeuger:
+87,50 €</title></rect>
+</g>
+<g class="node">
+<rect id="r3" class="for_r3" x="1127.20947" y="83.8404" height="6.44061" width="2" fill="#e7298a" fill-opacity="1"><title>Teilnahmeerklärung gegenüber der Genossenschaft als Zeichennutzerin und Unternehmergruppe prüfen, unterzeichnen und übermitteln:
+12,50 €</title></rect>
+</g>
+<g class="node">
+<rect id="r4" class="for_r4" x="1127.20947" y="98.99946" height="6.44061" width="2" fill="#66a61e" fill-opacity="1"><title>Datenschutzhinweise zur Teilnahmevereinbarung lesen und unterzeichnen:
+12,50 €</title></rect>
+</g>
+<g class="node">
+<rect id="r5" class="for_r5" x="1127.20947" y="114.15852" height="12.88123" width="2" fill="#e6ab02" fill-opacity="1"><title>Vorhandene Betriebsnachweise für das QMS zusammenstellen und der Unternehmergruppe übermitteln:
+25,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r6" class="for_r6" x="1127.20947" y="135.75819" height="6.44061" width="2" fill="#a6761d" fill-opacity="1"><title>Umsetzung von Korrekturmaßnahmen dokumentieren und der Unternehmergruppe melden:
+12,50 €</title></rect>
+</g>
+<g class="node">
+<rect id="r7" class="for_r7" x="1127.20947" y="150.91725" height="12.88123" width="2" fill="#666666" fill-opacity="1"><title>Eigenkontrollcheckliste des landwirtschaftlichen Betriebs ausfüllen und ablegen:
+25,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r8" class="for_r8" x="563.60474" y="297.84051" height="463.0801" width="2" fill="#1b9e77" fill-opacity="1"><title>Genossenschaft:
+898,75 €</title></rect>
+</g>
+<g class="node">
+<rect id="r9" class="for_r9" x="845.40711" y="284.29551" height="390.30117" width="2" fill="#d95f02" fill-opacity="1"><title>Administrative Tätigkeiten im QMS der Erzeugergruppe:
+757,50 €</title></rect>
+</g>
+<g class="node">
+<rect id="r10" class="for_r10" x="1127.20947" y="172.51692" height="6.44061" width="2" fill="#7570b3" fill-opacity="1"><title>Teilnahmevereinbarung mit dem Gruppenmitglied ausfüllen, unterzeichnen und ablegen:
+12,50 €</title></rect>
+</g>
+<g class="node">
+<rect id="r11" class="for_r11" x="1127.20947" y="187.67598" height="61.82989" width="2" fill="#e7298a" fill-opacity="1"><title>Mitglieder- und Meldedatei aktualisieren und jährlich an den Lizenznehmer übermitteln:
+120,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r12" class="for_r12" x="1127.20947" y="258.22432" height="30.91494" width="2" fill="#666666" fill-opacity="1"><title>Eigenkontrollcheckliste und betriebliche Nachweise des Gruppenmitglieds prüfen, Prüfergebnis dokumentieren und Mitglied freigeben:
+60,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r13" class="for_r13" x="1127.20947" y="297.85771" height="7.72874" width="2" fill="#66a61e" fill-opacity="1"><title>Maßnahmenpläne prüfen und Prüfergebnis dokumentieren:
+15,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r14" class="for_r14" x="1127.20947" y="314.30489" height="15.45747" width="2" fill="#e6ab02" fill-opacity="1"><title>Pflanzenschutzaufzeichnungen prüfen und Prüfergebnis dokumentieren:
+30,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r15" class="for_r15" x="1127.20947" y="338.48081" height="15.45747" width="2" fill="#a6761d" fill-opacity="1"><title>Düngemittelaufzeichnungen prüfen und Prüfergebnis dokumentieren:
+30,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r16" class="for_r16" x="1127.20947" y="362.65673" height="7.72874" width="2" fill="#666666" fill-opacity="1"><title>Ernteaufzeichnungen prüfen und Prüfergebnis dokumentieren:
+15,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r17" class="for_r17" x="1127.20947" y="379.10391" height="7.72874" width="2" fill="#1b9e77" fill-opacity="1"><title>Verkaufszahlen prüfen und Prüfergebnis dokumentieren:
+15,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r18" class="for_r18" x="1127.20947" y="395.55109" height="15.45747" width="2" fill="#d95f02" fill-opacity="1"><title>Flächenangaben prüfen und Prüfergebnis dokumentieren:
+30,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r19" class="for_r19" x="1127.20947" y="419.72701" height="7.72874" width="2" fill="#7570b3" fill-opacity="1"><title>Lieferscheine prüfen und Prüfergebnis dokumentieren:
+15,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r20" class="for_r20" x="1127.20947" y="436.17419" height="7.72874" width="2" fill="#e7298a" fill-opacity="1"><title>Wareneingangsdokumente prüfen und Prüfergebnis dokumentieren:
+15,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r21" class="for_r21" x="1127.20947" y="452.62138" height="7.72874" width="2" fill="#66a61e" fill-opacity="1"><title>Rechnungsunterlagen prüfen und Prüfergebnis dokumentieren:
+15,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r22" class="for_r22" x="1127.20947" y="469.06856" height="7.72874" width="2" fill="#e6ab02" fill-opacity="1"><title>Korrekturmaßnahmen definieren und Umsetzungsfristen dokumentieren:
+15,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r23" class="for_r23" x="1127.20947" y="485.51574" height="7.72874" width="2" fill="#a6761d" fill-opacity="1"><title>Nachkontrolle durchführen und Ergebnis dokumentieren:
+15,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r24" class="for_r24" x="1127.20947" y="501.96292" height="7.72874" width="2" fill="#666666" fill-opacity="1"><title>Beschwerden erfassen, untersuchen, klären und dokumentieren:
+15,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r25" class="for_r25" x="1127.20947" y="518.4101" height="23.18621" width="2" fill="#1b9e77" fill-opacity="1"><title>Kontroll- und Abweichungsprotokolle führen:
+45,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r26" class="for_r26" x="1127.20947" y="550.31476" height="7.72874" width="2" fill="#d95f02" fill-opacity="1"><title>Abweichungen kategorisieren und dokumentieren:
+15,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r27" class="for_r27" x="1127.20947" y="566.76194" height="61.82989" width="2" fill="#7570b3" fill-opacity="1"><title>QMS-Verfahren, Unterlagen und Aufzeichnungen erstellen, aktualisieren und bereitstellen:
+120,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r28" class="for_r28" x="1127.20947" y="637.31028" height="3.86437" width="2" fill="#e7298a" fill-opacity="1"><title>Mitgliederliste mit Kontrollstatus und Versionsstand aktualisieren:
+7,50 €</title></rect>
+</g>
+<g class="node">
+<rect id="r29" class="for_r29" x="1127.20947" y="649.89309" height="7.72874" width="2" fill="#66a61e" fill-opacity="1"><title>interne QMS-Kontrolleure ernennen sowie Interessenkonflikte und Qualifikation dokumentieren:
+15,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r30" class="for_r30" x="1127.20947" y="666.34027" height="15.45747" width="2" fill="#66a61e" fill-opacity="1"><title>interne QMS-Kontrolleure und Mitglieder schulen und Schulungsnachweise pflegen:
+30,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r31" class="for_r31" x="1127.20947" y="690.51619" height="7.72874" width="2" fill="#e6ab02" fill-opacity="1"><title>Interne Inspektionen terminieren und Inspektionsplan pflegen:
+15,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r32" class="for_r32" x="1127.20947" y="706.96337" height="7.72874" width="2" fill="#a6761d" fill-opacity="1"><title>Neue Mitglieder, Produktionseinheiten oder Tätigkeiten prüfen und Zulassung dokumentieren:
+15,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r33" class="for_r33" x="1127.20947" y="723.41055" height="7.72874" width="2" fill="#666666" fill-opacity="1"><title>Erhebliche Verstöße, Mitgliedssperren und Vermarktungsverbote an die Kontrollstelle melden:
+15,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r34" class="for_r34" x="1127.20947" y="739.85774" height="12.88123" width="2" fill="#1b9e77" fill-opacity="1"><title>Kontrollvertrag beziehungsweise Kontrollauftrag prüfen, unterzeichnen und ablegen:
+25,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r35" class="for_r35" x="1127.20947" y="761.45741" height="15.45747" width="2" fill="#d95f02" fill-opacity="1"><title>QMS-Kontrollunterlagen zusammenstellen und der Kontrollstelle bereitstellen:
+30,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r36" class="for_r36" x="1127.20947" y="785.63333" height="3.86437" width="2" fill="#7570b3" fill-opacity="1"><title>Gruppenzertifikat prüfen, intern zuordnen und im QMS ablegen:
+7,50 €</title></rect>
+</g>
+<g class="node">
+<rect id="r37" class="for_r37" x="845.40711" y="754.0191" height="72.77893" width="2" fill="#d95f02" fill-opacity="1"><title>Administrative Tätigkeiten als Zeichennutzer:
+141,25 €</title></rect>
+</g>
+<g class="node">
+<rect id="r38" class="for_r38" x="1127.20947" y="798.21614" height="12.88123" width="2" fill="#e7298a" fill-opacity="1"><title>Zeichennutzungsvertrag lesen, unterzeichnen und ablegen:
+25,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r39" class="for_r39" x="1127.20947" y="819.81582" height="3.22031" width="2" fill="#66a61e" fill-opacity="1"><title>Datenschutzhinweise zum Zeichennutzungsvertrag lesen und unterzeichnen:
+6,25 €</title></rect>
+</g>
+<g class="node">
+<rect id="r40" class="for_r40" x="1127.20947" y="831.75457" height="15.45747" width="2" fill="#666666" fill-opacity="1"><title>Eigenkontrollcheckliste des Zeichennutzers ausfüllen, aktualisieren und ablegen:
+30,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r41" class="for_r41" x="1127.20947" y="855.93049" height="25.76245" width="2" fill="#66a61e" fill-opacity="1"><title>Warenflüsse zwischen zertifizierten und nicht zertifizierten Produkten trennen und nachvollziehbar dokumentieren:
+50,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r42" class="for_r42" x="1127.20947" y="890.41139" height="7.72874" width="2" fill="#e6ab02" fill-opacity="1"><title>BioZBW-Produktaufstellung aktualisieren und für Kontrollen bereitstellen:
+15,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r43" class="for_r43" x="1127.20947" y="906.85857" height="7.72874" width="2" fill="#a6761d" fill-opacity="1"><title>Qualitätsprüfung administrativ anmelden sowie Ergebnisnachweis zuordnen und bereithalten:
+15,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r44" class="for_r44" x="563.60474" y="827.18304" height="1.88066" width="2" fill="#666666" fill-opacity="1"><title>Kontroll-/Zertifizierungsstelle:
+3,65 €</title></rect>
+</g>
+<g class="node">
+<rect id="r45" class="for_r45" x="845.40711" y="878.39272" height="0.92745" width="2" fill="#d95f02" fill-opacity="1"><title>Administrative Prüfung des Gruppen-QMS:
+1,80 €</title></rect>
+</g>
+<g class="node">
+<rect id="r46" class="for_r46" x="1127.20947" y="923.30575" height="0.4122" width="2" fill="#1b9e77" fill-opacity="1"><title>QMS anhand der Unterlagen verifizieren und Ergebnis dokumentieren:
+0,80 €</title></rect>
+</g>
+<g class="node">
+<rect id="r47" class="for_r47" x="1127.20947" y="932.4364" height="0.4122" width="2" fill="#d95f02" fill-opacity="1"><title>Prüfergebnisse dokumentieren und Quartalsmeldung an die MBW übermitteln:
+0,80 €</title></rect>
+</g>
+<g class="node">
+<rect id="r48" class="for_r48" x="1127.20947" y="941.56704" height="0.05152" width="2" fill="#7570b3" fill-opacity="1"><title>Externen QMS-Kontrolltermin abstimmen und erforderliche Kontrollunterlagen anfordern:
+0,10 €</title></rect>
+</g>
+<g class="node">
+<rect id="r49" class="for_r49" x="1127.20947" y="950.33701" height="0.05152" width="2" fill="#e7298a" fill-opacity="1"><title>Zertifizierungsentscheidung dokumentieren und Gruppenzertifikat beziehungsweise Zertifikatsdaten übermitteln:
+0,10 €</title></rect>
+</g>
+<g class="node">
+<rect id="r50" class="for_r50" x="845.40711" y="897.09611" height="0.12881" width="2" fill="#d95f02" fill-opacity="1"><title>Administrative Tätigkeiten der Zeichennutzerkontrolle:
+0,25 €</title></rect>
+</g>
+<g class="node">
+<rect id="r51" class="for_r51" x="1127.20947" y="959.10698" height="0.02576" width="2" fill="#66a61e" fill-opacity="1"><title>Jährliche Zeichennutzerkontrolle terminieren und programmspezifische Unterlagen anfordern:
+0,05 €</title></rect>
+</g>
+<g class="node">
+<rect id="r52" class="for_r52" x="1127.20947" y="967.85119" height="0.10305" width="2" fill="#e6ab02" fill-opacity="1"><title>Eigenkontrollsystem, Produkt- und Qualitätsnachweise, Waren- und Herkunftsdokumentation, Rückverfolgbarkeit und Kennzeichnung prüfen und Kontrollcheckliste vervollständigen:
+0,20 €</title></rect>
+</g>
+<g class="node">
+<rect id="r53" class="for_r53" x="845.40711" y="908.58615" height="0.8244" width="2" fill="#d95f02" fill-opacity="1"><title>Administrative Vor- und Nachbereitung der Mitgliederstichprobe:
+1,60 €</title></rect>
+</g>
+<g class="node">
+<rect id="r54" class="for_r54" x="1127.20947" y="976.67269" height="0.05152" width="2" fill="#a6761d" fill-opacity="1"><title>Risikobasierte Mitgliederstichprobe auswählen und jährlichen Kontrollplan dokumentieren:
+0,10 €</title></rect>
+</g>
+<g class="node">
+<rect id="r55" class="for_r55" x="1127.20947" y="985.44266" height="0.38644" width="2" fill="#666666" fill-opacity="1"><title>Termin und Unterlagen je ausgewähltem Mitglied koordinieren und Kontrollakte vorbereiten:
+0,75 €</title></rect>
+</g>
+<g class="node">
+<rect id="r56" class="for_r56" x="1127.20947" y="994.54754" height="0.38644" width="2" fill="#1b9e77" fill-opacity="1"><title>Kontrollcheckliste je Stichprobenmitglied abschließen, Ergebnis und gegebenenfalls Abweichungen dokumentieren und Kontrollakte schließen:
+0,75 €</title></rect>
+</g>
+<g class="node">
+<rect id="r57" class="for_r57" x="563.60474" y="848.75816" height="30.91494" width="2" fill="#d95f02" fill-opacity="1"><title>Externer Lizenznehmer:
+60,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r58" class="for_r58" x="845.40711" y="926.20529" height="15.45747" width="2" fill="#7570b3" fill-opacity="1"><title>Einmalige Vertragsprüfung und Programmanmeldung:
+30,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r59" class="for_r59" x="1127.20947" y="1003.65242" height="15.45747" width="2" fill="#e7298a" fill-opacity="1"><title>Zeichennutzungsvertrag der Genossenschaft prüfen und gegenzeichnen sowie Programmanmeldung weiterleiten:
+30,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r60" class="for_r60" x="845.40711" y="956.55678" height="15.45747" width="2" fill="#e7298a" fill-opacity="1"><title>Laufende teilnehmerbezogene Lizenznehmerverwaltung:
+30,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r61" class="for_r61" x="1127.20947" y="1027.82834" height="1.28812" width="2" fill="#66a61e" fill-opacity="1"><title>Jahresmeldung der angeschlossenen Erzeuger und Zeichennutzer erstellen, plausibilisieren und an die MBW übermitteln:
+2,50 €</title></rect>
+</g>
+<g class="node">
+<rect id="r62" class="for_r62" x="1127.20947" y="1037.83491" height="2.57625" width="2" fill="#e6ab02" fill-opacity="1"><title>Programminhalte und vertragliche Verpflichtungen der angeschlossenen Teilnehmer laufend überwachen:
+5,00 €</title></rect>
+</g>
+<g class="node">
+<rect id="r63" class="for_r63" x="1127.20947" y="1049.1296" height="3.86437" width="2" fill="#a6761d" fill-opacity="1"><title>Vorgesehene Kontrollen veranlassen und deren Durchführung administrativ überwachen:
+7,50 €</title></rect>
+</g>
+<g class="node">
+<rect id="r64" class="for_r64" x="1127.20947" y="1061.71242" height="3.86437" width="2" fill="#d95f02" fill-opacity="1"><title>Prüfergebnisse zuordnen, Teilnehmerstatus aktualisieren und gewöhnliche Korrekturhinweise nachverfolgen:
+7,50 €</title></rect>
+</g>
+<g class="node">
+<rect id="r65" class="for_r65" x="1127.20947" y="1074.29523" height="3.86437" width="2" fill="#666666" fill-opacity="1"><title>Neuanmeldungen und Stammdatenänderungen verwalten und unverzüglich an die MBW melden:
+7,50 €</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="9px" fill="#000000">
+<rect id="label0_bg" class="for_r0" x="-79.98333" y="517.50279" width="79.69557" height="12.80003" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-3.6" y="524.29897" font-weight="400" font-size="8.64px" dy="2.65144">1.049,90 € <tspan font-weight="400" font-size="8.64px">Gesamt</tspan></text>
+<rect id="label1_bg" class="for_r1" x="242.67141" y="517.50279" width="80.70891" height="12.80003" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="middle" x="282.80237" y="524.29897" font-weight="400" font-size="8.64px" dy="2.65144">1.049,90 € <tspan font-weight="400" font-size="8.64px">BioZBW</tspan></text>
+<rect id="label2_bg" class="for_r2" x="509.74166" y="219.22802" width="110.66689" height="14.32381" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label2" class="for_r2" text-anchor="middle" x="564.60474" y="226.34422" font-weight="400" font-size="9.30003px" dy="3.09334">87,50 € <tspan font-weight="400" font-size="9.30003px">Traubenerzeuger</tspan></text>
+<rect id="label3_bg" class="for_r3" x="1130.14278" y="79.94452" width="602.66884" height="14.32381" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label3" class="for_r3" text-anchor="start" x="1132.80947" y="87.06071" font-weight="400" font-size="9.35146px" dy="3.09334">12,50 € <tspan font-weight="400" font-size="9.35146px">Teilnahmeerklärung gegenüber der Genossenschaft als Zeichennutzerin und Unternehmergruppe prüfen, unterzeichnen und übermitteln</tspan></text>
+<rect id="label4_bg" class="for_r4" x="1130.14278" y="95.1036" width="347.49831" height="14.32381" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label4" class="for_r4" text-anchor="start" x="1132.80947" y="102.21977" font-weight="400" font-size="9.35146px" dy="3.09334">12,50 € <tspan font-weight="400" font-size="9.35146px">Datenschutzhinweise zur Teilnahmevereinbarung lesen und unterzeichnen</tspan></text>
+<rect id="label5_bg" class="for_r5" x="1130.14278" y="113.48295" width="470.42262" height="14.32381" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label5" class="for_r5" text-anchor="start" x="1132.80947" y="120.59913" font-weight="400" font-size="9.34289px" dy="3.09334">25,00 € <tspan font-weight="400" font-size="9.34289px">Vorhandene Betriebsnachweise für das QMS zusammenstellen und der Unternehmergruppe übermitteln</tspan></text>
+<rect id="label6_bg" class="for_r6" x="1130.14278" y="131.86233" width="416.23402" height="14.32381" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label6" class="for_r6" text-anchor="start" x="1132.80947" y="138.9785" font-weight="400" font-size="9.35146px" dy="3.09334">12,50 € <tspan font-weight="400" font-size="9.35146px">Umsetzung von Korrekturmaßnahmen dokumentieren und der Unternehmergruppe melden</tspan></text>
+<rect id="label7_bg" class="for_r7" x="1130.14278" y="150.24168" width="367.1111" height="14.32381" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label7" class="for_r7" text-anchor="start" x="1132.80947" y="157.35786" font-weight="400" font-size="9.34289px" dy="3.09334">25,00 € <tspan font-weight="400" font-size="9.34289px">Eigenkontrollcheckliste des landwirtschaftlichen Betriebs ausfüllen und ablegen</tspan></text>
+<rect id="label8_bg" class="for_r8" x="512.13448" y="522.58439" width="105.78706" height="12.80003" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label8" class="for_r8" text-anchor="middle" x="564.60474" y="529.38056" font-weight="400" font-size="8.74366px" dy="2.65144">898,75 € <tspan font-weight="400" font-size="8.74366px">Genossenschaft</tspan></text>
+<rect id="label9_bg" class="for_r9" x="717.31783" y="472.10893" width="258.82484" height="13.5619" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label9" class="for_r9" text-anchor="middle" x="846.40711" y="479.44609" font-weight="400" font-size="8.84053px" dy="2.87239">757,50 € <tspan font-weight="400" font-size="8.84053px">Administrative Tätigkeiten im QMS der Erzeugergruppe</tspan></text>
+<rect id="label10_bg" class="for_r10" x="1130.14278" y="168.62104" width="401.55165" height="14.32381" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label10" class="for_r10" text-anchor="start" x="1132.80947" y="175.73723" font-weight="400" font-size="9.35146px" dy="3.09334">12,50 € <tspan font-weight="400" font-size="9.35146px">Teilnahmevereinbarung mit dem Gruppenmitglied ausfüllen, unterzeichnen und ablegen</tspan></text>
+<rect id="label11_bg" class="for_r11" x="1130.14278" y="211.47474" width="398.51491" height="14.32381" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label11" class="for_r11" text-anchor="start" x="1132.80947" y="218.59093" font-weight="400" font-size="9.27774px" dy="3.09334">120,00 € <tspan font-weight="400" font-size="9.27774px">Mitglieder- und Meldedatei aktualisieren und jährlich an den Lizenznehmer übermitteln</tspan></text>
+<rect id="label12_bg" class="for_r12" x="1130.14278" y="266.56562" width="589.47719" height="14.3238" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label12" class="for_r12" text-anchor="start" x="1132.80947" y="273.68179" font-weight="400" font-size="9.31889px" dy="3.09334">60,00 € <tspan font-weight="400" font-size="9.31889px">Eigenkontrollcheckliste und betriebliche Nachweise des Gruppenmitglieds prüfen, Prüfergebnis dokumentieren und Mitglied freigeben</tspan></text>
+<rect id="label13_bg" class="for_r13" x="1130.14278" y="294.60588" width="282.19093" height="14.3238" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label13" class="for_r13" text-anchor="start" x="1132.80947" y="301.72208" font-weight="400" font-size="9.34975px" dy="3.09334">15,00 € <tspan font-weight="400" font-size="9.34975px">Maßnahmenpläne prüfen und Prüfergebnis dokumentieren</tspan></text>
+<rect id="label14_bg" class="for_r14" x="1130.14278" y="314.91743" width="335.71681" height="14.3238" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label14" class="for_r14" text-anchor="start" x="1132.80947" y="322.03363" font-weight="400" font-size="9.33946px" dy="3.09334">30,00 € <tspan font-weight="400" font-size="9.33946px">Pflanzenschutzaufzeichnungen prüfen und Prüfergebnis dokumentieren</tspan></text>
+<rect id="label15_bg" class="for_r15" x="1130.14278" y="339.09336" width="322.22267" height="14.3238" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label15" class="for_r15" text-anchor="start" x="1132.80947" y="346.20955" font-weight="400" font-size="9.33946px" dy="3.09334">30,00 € <tspan font-weight="400" font-size="9.33946px">Düngemittelaufzeichnungen prüfen und Prüfergebnis dokumentieren</tspan></text>
+<rect id="label16_bg" class="for_r16" x="1130.14278" y="359.40492" width="295.19569" height="14.3238" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label16" class="for_r16" text-anchor="start" x="1132.80947" y="366.5211" font-weight="400" font-size="9.34975px" dy="3.09334">15,00 € <tspan font-weight="400" font-size="9.34975px">Ernteaufzeichnungen prüfen und Prüfergebnis dokumentieren</tspan></text>
+<rect id="label17_bg" class="for_r17" x="1130.14278" y="375.85209" width="270.76088" height="14.3238" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label17" class="for_r17" text-anchor="start" x="1132.80947" y="382.96828" font-weight="400" font-size="9.34975px" dy="3.09334">15,00 € <tspan font-weight="400" font-size="9.34975px">Verkaufszahlen prüfen und Prüfergebnis dokumentieren</tspan></text>
+<rect id="label18_bg" class="for_r18" x="1130.14278" y="396.16362" width="276.05263" height="14.3238" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label18" class="for_r18" text-anchor="start" x="1132.80947" y="403.27983" font-weight="400" font-size="9.33946px" dy="3.09334">30,00 € <tspan font-weight="400" font-size="9.33946px">Flächenangaben prüfen und Prüfergebnis dokumentieren</tspan></text>
+<rect id="label19_bg" class="for_r19" x="1130.14278" y="416.4752" width="262.44386" height="14.3238" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label19" class="for_r19" text-anchor="start" x="1132.80947" y="423.59138" font-weight="400" font-size="9.34975px" dy="3.09334">15,00 € <tspan font-weight="400" font-size="9.34975px">Lieferscheine prüfen und Prüfergebnis dokumentieren</tspan></text>
+<rect id="label20_bg" class="for_r20" x="1130.14278" y="432.92241" width="318.22487" height="14.3238" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label20" class="for_r20" text-anchor="start" x="1132.80947" y="440.03856" font-weight="400" font-size="9.34975px" dy="3.09334">15,00 € <tspan font-weight="400" font-size="9.34975px">Wareneingangsdokumente prüfen und Prüfergebnis dokumentieren</tspan></text>
+<rect id="label21_bg" class="for_r21" x="1130.14278" y="449.36958" width="298.31349" height="14.3238" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label21" class="for_r21" text-anchor="start" x="1132.80947" y="456.48574" font-weight="400" font-size="9.34975px" dy="3.09334">15,00 € <tspan font-weight="400" font-size="9.34975px">Rechnungsunterlagen prüfen und Prüfergebnis dokumentieren</tspan></text>
+<rect id="label22_bg" class="for_r22" x="1130.14278" y="465.81675" width="336.72108" height="14.3238" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label22" class="for_r22" text-anchor="start" x="1132.80947" y="472.93293" font-weight="400" font-size="9.34975px" dy="3.09334">15,00 € <tspan font-weight="400" font-size="9.34975px">Korrekturmaßnahmen definieren und Umsetzungsfristen dokumentieren</tspan></text>
+<rect id="label23_bg" class="for_r23" x="1130.14278" y="482.26393" width="271.27211" height="14.3238" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label23" class="for_r23" text-anchor="start" x="1132.80947" y="489.38011" font-weight="400" font-size="9.34975px" dy="3.09334">15,00 € <tspan font-weight="400" font-size="9.34975px">Nachkontrolle durchführen und Ergebnis dokumentieren</tspan></text>
+<rect id="label24_bg" class="for_r24" x="1130.14278" y="498.7111" width="304.53065" height="14.3238" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label24" class="for_r24" text-anchor="start" x="1132.80947" y="505.82729" font-weight="400" font-size="9.34975px" dy="3.09334">15,00 € <tspan font-weight="400" font-size="9.34975px">Beschwerden erfassen, untersuchen, klären und dokumentieren</tspan></text>
+<rect id="label25_bg" class="for_r25" x="1130.14278" y="522.88707" width="219.31606" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label25" class="for_r25" text-anchor="start" x="1132.80947" y="530.00321" font-weight="400" font-size="9.32917px" dy="3.09334">45,00 € <tspan font-weight="400" font-size="9.32917px">Kontroll- und Abweichungsprotokolle führen</tspan></text>
+<rect id="label26_bg" class="for_r26" x="1130.14278" y="547.06297" width="244.25465" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label26" class="for_r26" text-anchor="start" x="1132.80947" y="554.17913" font-weight="400" font-size="9.34975px" dy="3.09334">15,00 € <tspan font-weight="400" font-size="9.34975px">Abweichungen kategorisieren und dokumentieren</tspan></text>
+<rect id="label27_bg" class="for_r27" x="1130.14278" y="590.56071" width="411.41823" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label27" class="for_r27" text-anchor="start" x="1132.80947" y="597.67688" font-weight="400" font-size="9.27774px" dy="3.09334">120,00 € <tspan font-weight="400" font-size="9.27774px">QMS-Verfahren, Unterlagen und Aufzeichnungen erstellen, aktualisieren und bereitstellen</tspan></text>
+<rect id="label28_bg" class="for_r28" x="1130.14278" y="632.12626" width="300.33705" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label28" class="for_r28" text-anchor="start" x="1132.80947" y="639.24246" font-weight="400" font-size="9.35489px" dy="3.09334">7,50 € <tspan font-weight="400" font-size="9.35489px">Mitgliederliste mit Kontrollstatus und Versionsstand aktualisieren</tspan></text>
+<rect id="label29_bg" class="for_r29" x="1130.14278" y="646.64128" width="431.31593" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label29" class="for_r29" text-anchor="start" x="1132.80947" y="653.75746" font-weight="400" font-size="9.34975px" dy="3.09334">15,00 € <tspan font-weight="400" font-size="9.34975px">interne QMS-Kontrolleure ernennen sowie Interessenkonflikte und Qualifikation dokumentieren</tspan></text>
+<rect id="label30_bg" class="for_r30" x="1130.14278" y="666.9528" width="382.90749" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label30" class="for_r30" text-anchor="start" x="1132.80947" y="674.06901" font-weight="400" font-size="9.33946px" dy="3.09334">30,00 € <tspan font-weight="400" font-size="9.33946px">interne QMS-Kontrolleure und Mitglieder schulen und Schulungsnachweise pflegen</tspan></text>
+<rect id="label31_bg" class="for_r31" x="1130.14278" y="687.26432" width="292.59389" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label31" class="for_r31" text-anchor="start" x="1132.80947" y="694.38056" font-weight="400" font-size="9.34975px" dy="3.09334">15,00 € <tspan font-weight="400" font-size="9.34975px">Interne Inspektionen terminieren und Inspektionsplan pflegen</tspan></text>
+<rect id="label32_bg" class="for_r32" x="1130.14278" y="703.71159" width="423.89369" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label32" class="for_r32" text-anchor="start" x="1132.80947" y="710.82774" font-weight="400" font-size="9.34975px" dy="3.09334">15,00 € <tspan font-weight="400" font-size="9.34975px">Neue Mitglieder, Produktionseinheiten oder Tätigkeiten prüfen und Zulassung dokumentieren</tspan></text>
+<rect id="label33_bg" class="for_r33" x="1130.14278" y="720.15873" width="424.55104" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label33" class="for_r33" text-anchor="start" x="1132.80947" y="727.27492" font-weight="400" font-size="9.34975px" dy="3.09334">15,00 € <tspan font-weight="400" font-size="9.34975px">Erhebliche Verstöße, Mitgliedssperren und Vermarktungsverbote an die Kontrollstelle melden</tspan></text>
+<rect id="label34_bg" class="for_r34" x="1130.14278" y="739.18217" width="384.78517" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label34" class="for_r34" text-anchor="start" x="1132.80947" y="746.29835" font-weight="400" font-size="9.34289px" dy="3.09334">25,00 € <tspan font-weight="400" font-size="9.34289px">Kontrollvertrag beziehungsweise Kontrollauftrag prüfen, unterzeichnen und ablegen</tspan></text>
+<rect id="label35_bg" class="for_r35" x="1130.14278" y="762.06999" width="357.97914" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label35" class="for_r35" text-anchor="start" x="1132.80947" y="769.18615" font-weight="400" font-size="9.33946px" dy="3.09334">30,00 € <tspan font-weight="400" font-size="9.33946px">QMS-Kontrollunterlagen zusammenstellen und der Kontrollstelle bereitstellen</tspan></text>
+<rect id="label36_bg" class="for_r36" x="1130.14278" y="780.44932" width="295.16066" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label36" class="for_r36" text-anchor="start" x="1132.80947" y="787.56551" font-weight="400" font-size="9.35489px" dy="3.09334">7,50 € <tspan font-weight="400" font-size="9.35489px">Gruppenzertifikat prüfen, intern zuordnen und im QMS ablegen</tspan></text>
+<rect id="label37_bg" class="for_r37" x="733.95473" y="783.29246" width="225.85475" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label37" class="for_r37" text-anchor="middle" x="846.40711" y="790.40857" font-weight="400" font-size="9.26316px" dy="3.09334">141,25 € <tspan font-weight="400" font-size="9.26316px">Administrative Tätigkeiten als Zeichennutzer</tspan></text>
+<rect id="label38_bg" class="for_r38" x="1130.14278" y="797.54057" width="282.49538" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label38" class="for_r38" text-anchor="start" x="1132.80947" y="804.65676" font-weight="400" font-size="9.34289px" dy="3.09334">25,00 € <tspan font-weight="400" font-size="9.34289px">Zeichennutzungsvertrag lesen, unterzeichnen und ablegen</tspan></text>
+<rect id="label39_bg" class="for_r39" x="1130.14278" y="814.30986" width="350.25233" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label39" class="for_r39" text-anchor="start" x="1132.80947" y="821.42597" font-weight="400" font-size="9.35575px" dy="3.09334">6,25 € <tspan font-weight="400" font-size="9.35575px">Datenschutzhinweise zum Zeichennutzungsvertrag lesen und unterzeichnen</tspan></text>
+<rect id="label40_bg" class="for_r40" x="1130.14278" y="832.36711" width="369.94203" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label40" class="for_r40" text-anchor="start" x="1132.80947" y="839.4833" font-weight="400" font-size="9.33946px" dy="3.09334">30,00 € <tspan font-weight="400" font-size="9.33946px">Eigenkontrollcheckliste des Zeichennutzers ausfüllen, aktualisieren und ablegen</tspan></text>
+<rect id="label41_bg" class="for_r41" x="1130.14278" y="861.69554" width="507.16505" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label41" class="for_r41" text-anchor="start" x="1132.80947" y="868.81171" font-weight="400" font-size="9.32574px" dy="3.09334">50,00 € <tspan font-weight="400" font-size="9.32574px">Warenflüsse zwischen zertifizierten und nicht zertifizierten Produkten trennen und nachvollziehbar dokumentieren</tspan></text>
+<rect id="label42_bg" class="for_r42" x="1130.14278" y="887.15965" width="338.6382" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label42" class="for_r42" text-anchor="start" x="1132.80947" y="894.27575" font-weight="400" font-size="9.34975px" dy="3.09334">15,00 € <tspan font-weight="400" font-size="9.34975px">BioZBW-Produktaufstellung aktualisieren und für Kontrollen bereitstellen</tspan></text>
+<rect id="label43_bg" class="for_r43" x="1130.14278" y="903.60679" width="423.01271" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label43" class="for_r43" text-anchor="start" x="1132.80947" y="910.72294" font-weight="400" font-size="9.34975px" dy="3.09334">15,00 € <tspan font-weight="400" font-size="9.34975px">Qualitätsprüfung administrativ anmelden sowie Ergebnisnachweis zuordnen und bereithalten</tspan></text>
+<rect id="label44_bg" class="for_r44" x="488.61068" y="821.00718" width="152.34578" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label44" class="for_r44" text-anchor="middle" x="564.60474" y="828.12337" font-weight="400" font-size="9.35753px" dy="3.09334">3,65 € <tspan font-weight="400" font-size="9.35753px">Kontroll-/Zertifizierungsstelle</tspan></text>
+<rect id="label45_bg" class="for_r45" x="742.06185" y="871.74028" width="208.91908" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label45" class="for_r45" text-anchor="middle" x="846.40711" y="878.85644" font-weight="400" font-size="9.3588px" dy="3.09334">1,80 € <tspan font-weight="400" font-size="9.3588px">Administrative Prüfung des Gruppen-QMS</tspan></text>
+<rect id="label46_bg" class="for_r46" x="1130.14278" y="916.39567" width="324.00063" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label46" class="for_r46" text-anchor="start" x="1132.80947" y="923.51185" font-weight="400" font-size="9.35949px" dy="3.09334">0,80 € <tspan font-weight="400" font-size="9.35949px">QMS anhand der Unterlagen verifizieren und Ergebnis dokumentieren</tspan></text>
+<rect id="label47_bg" class="for_r47" x="1130.14278" y="925.52635" width="356.23097" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label47" class="for_r47" text-anchor="start" x="1132.80947" y="932.6425" font-weight="400" font-size="9.35949px" dy="3.09334">0,80 € <tspan font-weight="400" font-size="9.35949px">Prüfergebnisse dokumentieren und Quartalsmeldung an die MBW übermitteln</tspan></text>
+<rect id="label48_bg" class="for_r48" x="1130.14278" y="934.47667" width="398.86366" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label48" class="for_r48" text-anchor="start" x="1132.80947" y="941.5928" font-weight="400" font-size="9.35997px" dy="3.09334">0,10 € <tspan font-weight="400" font-size="9.35997px">Externen QMS-Kontrolltermin abstimmen und erforderliche Kontrollunterlagen anfordern</tspan></text>
+<rect id="label49_bg" class="for_r49" x="1130.14278" y="943.24668" width="495.09816" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label49" class="for_r49" text-anchor="start" x="1132.80947" y="950.36277" font-weight="400" font-size="9.35997px" dy="3.09334">0,10 € <tspan font-weight="400" font-size="9.35997px">Zertifizierungsentscheidung dokumentieren und Gruppenzertifikat beziehungsweise Zertifikatsdaten übermitteln</tspan></text>
+<rect id="label50_bg" class="for_r50" x="719.52022" y="890.04441" width="254.12599" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label50" class="for_r50" text-anchor="middle" x="846.40711" y="897.16052" font-weight="400" font-size="9.35986px" dy="3.09334">0,25 € <tspan font-weight="400" font-size="9.35986px">Administrative Tätigkeiten der Zeichennutzerkontrolle</tspan></text>
+<rect id="label51_bg" class="for_r51" x="1130.14278" y="952.00376" width="419.15224" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label51" class="for_r51" text-anchor="start" x="1132.80947" y="959.11986" font-weight="400" font-size="9.36px" dy="3.09334">0,05 € <tspan font-weight="400" font-size="9.36px">Jährliche Zeichennutzerkontrolle terminieren und programmspezifische Unterlagen anfordern</tspan></text>
+<rect id="label52_bg" class="for_r52" x="1130.14278" y="960.7866" width="779.22804" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label52" class="for_r52" text-anchor="start" x="1132.80947" y="967.90272" font-weight="400" font-size="9.3599px" dy="3.09334">0,20 € <tspan font-weight="400" font-size="9.3599px">Eigenkontrollsystem, Produkt- und Qualitätsnachweise, Waren- und Herkunftsdokumentation, Rückverfolgbarkeit und Kennzeichnung prüfen und Kontrollcheckliste vervollständigen</tspan></text>
+<rect id="label53_bg" class="for_r53" x="698.37136" y="901.88218" width="296.42525" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label53" class="for_r53" text-anchor="middle" x="846.40711" y="908.99835" font-weight="400" font-size="9.35894px" dy="3.09334">1,60 € <tspan font-weight="400" font-size="9.35894px">Administrative Vor- und Nachbereitung der Mitgliederstichprobe</tspan></text>
+<rect id="label54_bg" class="for_r54" x="1130.14278" y="969.58226" width="404.08998" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label54" class="for_r54" text-anchor="start" x="1132.80947" y="976.69845" font-weight="400" font-size="9.35997px" dy="3.09334">0,10 € <tspan font-weight="400" font-size="9.35997px">Risikobasierte Mitgliederstichprobe auswählen und jährlichen Kontrollplan dokumentieren</tspan></text>
+<rect id="label55_bg" class="for_r55" x="1130.14278" y="978.51976" width="410.16383" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label55" class="for_r55" text-anchor="start" x="1132.80947" y="985.63588" font-weight="400" font-size="9.35952px" dy="3.09334">0,75 € <tspan font-weight="400" font-size="9.35952px">Termin und Unterlagen je ausgewähltem Mitglied koordinieren und Kontrollakte vorbereiten</tspan></text>
+<rect id="label56_bg" class="for_r56" x="1130.14278" y="987.62468" width="622.03712" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label56" class="for_r56" text-anchor="start" x="1132.80947" y="994.74076" font-weight="400" font-size="9.35952px" dy="3.09334">0,75 € <tspan font-weight="400" font-size="9.35952px">Kontrollcheckliste je Stichprobenmitglied abschließen, Ergebnis und gegebenenfalls Abweichungen dokumentieren und Kontrollakte schließen</tspan></text>
+<rect id="label57_bg" class="for_r57" x="496.92617" y="857.09953" width="136.28096" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label57" class="for_r57" text-anchor="middle" x="564.60474" y="864.21563" font-weight="400" font-size="9.31889px" dy="3.09334">60,00 € <tspan font-weight="400" font-size="9.31889px">Externer Lizenznehmer</tspan></text>
+<rect id="label58_bg" class="for_r58" x="716.62136" y="926.81791" width="259.93806" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label58" class="for_r58" text-anchor="middle" x="846.40711" y="933.93403" font-weight="400" font-size="9.33946px" dy="3.09334">30,00 € <tspan font-weight="400" font-size="9.33946px">Einmalige Vertragsprüfung und Programmanmeldung</tspan></text>
+<rect id="label59_bg" class="for_r59" x="1130.14278" y="1004.265" width="507.42628" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label59" class="for_r59" text-anchor="start" x="1132.80947" y="1011.38116" font-weight="400" font-size="9.33946px" dy="3.09334">30,00 € <tspan font-weight="400" font-size="9.33946px">Zeichennutzungsvertrag der Genossenschaft prüfen und gegenzeichnen sowie Programmanmeldung weiterleiten</tspan></text>
+<rect id="label60_bg" class="for_r60" x="710.63924" y="957.16941" width="271.89638" height="14.32383" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label60" class="for_r60" text-anchor="middle" x="846.40711" y="964.28551" font-weight="400" font-size="9.33946px" dy="3.09334">30,00 € <tspan font-weight="400" font-size="9.33946px">Laufende teilnehmerbezogene Lizenznehmerverwaltung</tspan></text>
+<rect id="label61_bg" class="for_r61" x="1130.14278" y="1021.35624" width="535.67043" height="14.32377" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label61" class="for_r61" text-anchor="start" x="1132.80947" y="1028.4724" font-weight="400" font-size="9.35832px" dy="3.09334">2,50 € <tspan font-weight="400" font-size="9.35832px">Jahresmeldung der angeschlossenen Erzeuger und Zeichennutzer erstellen, plausibilisieren und an die MBW übermitteln</tspan></text>
+<rect id="label62_bg" class="for_r62" x="1130.14278" y="1032.00688" width="468.43214" height="14.32377" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label62" class="for_r62" text-anchor="start" x="1132.80947" y="1039.12303" font-weight="400" font-size="9.35661px" dy="3.09334">5,00 € <tspan font-weight="400" font-size="9.35661px">Programminhalte und vertragliche Verpflichtungen der angeschlossenen Teilnehmer laufend überwachen</tspan></text>
+<rect id="label63_bg" class="for_r63" x="1130.14278" y="1043.9456" width="399.63356" height="14.32377" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label63" class="for_r63" text-anchor="start" x="1132.80947" y="1051.06179" font-weight="400" font-size="9.35489px" dy="3.09334">7,50 € <tspan font-weight="400" font-size="9.35489px">Vorgesehene Kontrollen veranlassen und deren Durchführung administrativ überwachen</tspan></text>
+<rect id="label64_bg" class="for_r64" x="1130.14278" y="1056.52848" width="481.03627" height="14.32377" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label64" class="for_r64" text-anchor="start" x="1132.80947" y="1063.6446" font-weight="400" font-size="9.35489px" dy="3.09334">7,50 € <tspan font-weight="400" font-size="9.35489px">Prüfergebnisse zuordnen, Teilnehmerstatus aktualisieren und gewöhnliche Korrekturhinweise nachverfolgen</tspan></text>
+<rect id="label65_bg" class="for_r65" x="1130.14278" y="1069.11125" width="434.45338" height="14.32377" rx="2.25" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label65" class="for_r65" text-anchor="start" x="1132.80947" y="1076.22742" font-weight="400" font-size="9.35489px" dy="3.09334">7,50 € <tspan font-weight="400" font-size="9.35489px">Neuanmeldungen und Stammdatenänderungen verwalten und unverzüglich an die MBW melden</tspan></text>
+</g>
+</g></svg>
